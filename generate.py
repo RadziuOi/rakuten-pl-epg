@@ -53,7 +53,7 @@ Make the channels and programmes into something readable by XMLTV
         programme.set("stop", end_time)
 
         title = etree.SubElement(programme, "title")
-        title.set('lang', 'en')
+        title.set('lang', 'pl')
         title.text = pr.get("title")
 
         if pr.get("subtitle") is not None:
