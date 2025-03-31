@@ -287,21 +287,6 @@
     <display-name lang="po">Top Movies Polska - Rakuten TV</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/cf1f0c80-1b00-4d8e-bd08-293a29c199dc.png"></icon>
   </channel>
-  <programme channel="the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a" start="20250331165410 +0200" stop="20250331171131 +0200">
-    <title lang="pl">America's soccer migrants: the US footballers crossing Mexico's border</title>
-    <desc lang="pl">Despite President Donald Trump’s rhetoric about Mexicans crossing the border to the US, American soccer players such as Omar Gonzalez are heading south for new opportunities, more money and a better standard of football.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a" start="20250331171132 +0200" stop="20250331172709 +0200">
-    <title lang="pl">Fish story</title>
-    <desc lang="pl">Sometime in the 1980s, Caspar Salmon's grandmother was invited to a gathering on the Welsh island of Anglesey, attended exclusively by people with fish surnames. Or so he says. Thirty years later, film-maker Charlie Lyne attempts to sort myth from reality.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a" start="20250331172710 +0200" stop="20250331175326 +0200">
-    <title lang="pl">The 'Lost Rambos' of Papua New Guinea: how weapons and Hollywood changed tribal disputes</title>
-    <desc lang="pl">Tribal fighting has long been present in the Papua New Guinea highlands but the influx of modern automatic weaponry in the 1990s turned local disputes into lethal exchanges that threatened to permanently reshape highlands culture.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
   <programme channel="the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a" start="20250331175327 +0200" stop="20250331180831 +0200">
     <title lang="pl">Malcolm Gladwell in conversation with Ben Fountain | Stewart Lee in conversation with Alan Moore</title>
     <desc lang="pl">Malcolm Gladwell in conversation with Ben Fountain | 'I'll write as if I'm trying to get sacked': Stewart Lee in conversation with Alan Moore</desc>
@@ -1110,26 +1095,6 @@
   <programme channel="the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a" start="20250403015741 +0200" stop="20250403021317 +0200">
     <title lang="pl">The teenager left paralysed by 'one tiny mistake' | Living with disabilities under austerity</title>
     <desc lang="pl">The teenager left paralysed by 'one tiny mistake' | Living with disabilities under austerity: 'You're treated worse than a farm animal'</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="france-24-en" start="20250331164501 +0200" stop="20250331170000 +0200">
-    <title lang="pl">France In Focus</title>
-    <desc lang="pl">An in-depth look at the political and social events shaping France.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="france-24-en" start="20250331170001 +0200" stop="20250331171500 +0200">
-    <title lang="pl">News</title>
-    <desc lang="pl">An international news bulletin, presented live from the newsroom.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="france-24-en" start="20250331171501 +0200" stop="20250331173000 +0200">
-    <title lang="pl">Reporters</title>
-    <desc lang="pl">An in-depth report by our senior reporters and team of correspondents from around the world.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="france-24-en" start="20250331173001 +0200" stop="20250331174500 +0200">
-    <title lang="pl">News</title>
-    <desc lang="pl">An international news bulletin, presented live from the newsroom.</desc>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="france-24-en" start="20250331174501 +0200" stop="20250331180000 +0200">
@@ -2257,16 +2222,6 @@
     <desc lang="pl">Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
     <category lang="pl">Informacyjne</category>
   </programme>
-  <programme channel="newsworld" start="20250331163001 +0200" stop="20250331170000 +0200">
-    <title lang="pl">The News</title>
-    <desc lang="pl">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="newsworld" start="20250331170001 +0200" stop="20250331173000 +0200">
-    <title lang="pl">Martin Daubney</title>
-    <desc lang="pl">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
   <programme channel="newsworld" start="20250331173001 +0200" stop="20250331180000 +0200">
     <title lang="pl">Martin Daubney</title>
     <desc lang="pl">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
@@ -2832,16 +2787,6 @@
     <desc lang="pl">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
     <category lang="pl">Informacyjne</category>
   </programme>
-  <programme channel="cgtn" start="20250331163001 +0200" stop="20250331170000 +0200">
-    <title lang="pl">The World Today</title>
-    <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="cgtn" start="20250331170001 +0200" stop="20250331173000 +0200">
-    <title lang="pl">Razor</title>
-    <desc lang="pl">CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already "living in the future"!</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
   <programme channel="cgtn" start="20250331173001 +0200" stop="20250331180000 +0200">
     <title lang="pl">Africa Live</title>
     <desc lang="pl">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
@@ -3175,16 +3120,6 @@
   <programme channel="cgtn" start="20250403013001 +0200" stop="20250403020000 +0200">
     <title lang="pl">Rediscovering China</title>
     <desc lang="pl">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="africanews-eng" start="20250331170000 +0200" stop="20250331172959 +0200">
-    <title lang="pl">Africanews</title>
-    <desc lang="pl">Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="africanews-eng" start="20250331173000 +0200" stop="20250331175959 +0200">
-    <title lang="pl">Africanews</title>
-    <desc lang="pl">Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="africanews-eng" start="20250331180000 +0200" stop="20250331182959 +0200">
@@ -3752,11 +3687,6 @@
     <desc lang="pl">Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
     <category lang="pl">Informacyjne</category>
   </programme>
-  <programme channel="bloomberg-tv-new" start="20250331170005 +0200" stop="20250331175958 +0200">
-    <title lang="pl">Bloomberg TV+</title>
-    <desc lang="pl">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
   <programme channel="bloomberg-tv-new" start="20250331180005 +0200" stop="20250331185958 +0200">
     <title lang="pl">Bloomberg TV+</title>
     <desc lang="pl">Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
@@ -4157,12 +4087,6 @@
     <desc lang="pl">The people and companies impacting your money.</desc>
     <category lang="pl">dokumentalny</category>
   </programme>
-  <programme channel="revry-news" start="20250331163006 +0200" stop="20250331170000 +0200">
-    <title lang="pl">America In Transition</title>
-    <sub-title lang="pl">S01 : E01 America In Transition</sub-title>
-    <desc lang="pl">America In Transition brings you intimate trans stories you won’t hear anywhere else.</desc>
-    <category lang="pl">LGBTQIA+</category>
-  </programme>
   <programme channel="revry-news" start="20250331170006 +0200" stop="20250331190000 +0200">
     <title lang="pl">The Pearl</title>
     <sub-title lang="pl">S01 : E01 The Pearl</sub-title>
@@ -4510,14 +4434,6 @@
     <sub-title lang="pl">S01 : E01 Anything Boys Can Do</sub-title>
     <desc lang="pl">A film exploring the issues affecting women bands and performers in the music scene.</desc>
     <category lang="pl">LGBTQIA+</category>
-  </programme>
-  <programme channel="reuters-new" start="20250331163001 +0200" stop="20250331170000 +0200">
-    <title lang="pl">Trending - Ep. 1</title>
-    <desc lang="pl">Trending - Ep. 1</desc>
-  </programme>
-  <programme channel="reuters-new" start="20250331170001 +0200" stop="20250331173000 +0200">
-    <title lang="pl">Facing Waves - Ep. 2</title>
-    <desc lang="pl">Facing Waves - Ep. 2</desc>
   </programme>
   <programme channel="reuters-new" start="20250331173001 +0200" stop="20250331180000 +0200">
     <title lang="pl">Campfire - Ep. 1</title>
@@ -4942,16 +4858,6 @@
   <programme channel="reuters-new" start="20250403013001 +0200" stop="20250403020000 +0200">
     <title lang="pl">Dispatches - Ep. 6</title>
     <desc lang="pl">Dispatches - Ep. 6</desc>
-  </programme>
-  <programme channel="euronews-live-pol" start="20250331170000 +0200" stop="20250331172959 +0200">
-    <title lang="pl">Euronews LIVE</title>
-    <desc lang="pl">Euronews LIVE</desc>
-    <category lang="pl">Informacyjne</category>
-  </programme>
-  <programme channel="euronews-live-pol" start="20250331173000 +0200" stop="20250331175959 +0200">
-    <title lang="pl">Euronews LIVE</title>
-    <desc lang="pl">Euronews LIVE</desc>
-    <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="euronews-live-pol" start="20250331180000 +0200" stop="20250331182959 +0200">
     <title lang="pl">Euronews LIVE</title>
@@ -5783,12 +5689,6 @@
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
     <category lang="pl">dokumentalny</category>
   </programme>
-  <programme channel="viasat-explore-pl" start="20250331160006 +0200" stop="20250331170000 +0200">
-    <title lang="pl">Lodowi wikingowie</title>
-    <sub-title lang="pl">S01 : E05 Ruchomy lód</sub-title>
-    <desc lang="pl">Pojazd Richarda i Mike'a zepsuł się i nie daje się uruchomić. Kiedy wreszcie udaje im się dostać na lód, okazuje się, że połowy są marne.</desc>
-    <category lang="pl">dokumentalny</category>
-  </programme>
   <programme channel="viasat-explore-pl" start="20250331170006 +0200" stop="20250331183000 +0200">
     <title lang="pl">Taaaki karp!</title>
     <sub-title lang="pl">S06 : E01 Jezioro Carcès</sub-title>
@@ -6124,18 +6024,6 @@
     <sub-title lang="pl">S05 : E02 Ciężarówką po bezdrożach Australii S5 Ep2</sub-title>
     <desc lang="pl">Slick ma coraz mniej czasu, aby zdążyć do domu na święta. Ross i Jerry zmagają się ze słupami energetycznymi i płotami, a Nick i Jo na bezdrożach mają problemy z kolejnymi awariami.</desc>
     <category lang="pl">dokumentalny</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20250331165820 +0200" stop="20250331172814 +0200">
-    <title lang="pl">Storm Hunters</title>
-    <sub-title lang="pl">S01 : E26 Storm Hunters | Outbreak! Part 1</sub-title>
-    <desc lang="pl">Stormhunters embark on their most epic tornado chase ever, breaking their own records and catching once in a lifetime views. ⇥</desc>
-    <category lang="pl">Styl życia</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20250331172820 +0200" stop="20250331175814 +0200">
-    <title lang="pl">Storm Hunters</title>
-    <sub-title lang="pl">S01 : E28 Storm Hunters | Height of Ruin - Part 1</sub-title>
-    <desc lang="pl">George joins Mark and Jaclyn on a journey to Nepal.</desc>
-    <category lang="pl">Styl życia</category>
   </programme>
   <programme channel="weather-spy-new" start="20250331175820 +0200" stop="20250331182814 +0200">
     <title lang="pl">Humans VS Weather</title>
@@ -7054,11 +6942,6 @@
     <desc lang="pl">Co to znaczy dorastać ze świadomością, że nigdy nie będzie się w stanie wybrać własnej kariery? Jak zdefiniować siebie w świecie, który ma już krystalicznie czysty obraz tego, kim jesteś i kim będziesz?</desc>
     <category lang="pl">dokumentalny</category>
   </programme>
-  <programme channel="moconomy-pl" start="20250331154357 +0200" stop="20250331170434 +0200">
-    <title lang="pl">Ekonomia Południa</title>
-    <desc lang="pl">Australia, Nowa Zelandia i Chile strasznie słabo radzą sobie z technologią. Przez lata utalentowani programiści tych krajów uciekali do Doliny Krzemowej w USA, by tam zarabiać na życie. Ostatnie programy rządów Australii, Nowej Zelandii i Chile niedofinansowywały nauki i technologii. Istnieją jednak przesłanki by sądzić, że kraje te zaczęły zatrzymywać niektóre z rodzimych talentów technologicznych.</desc>
-    <category lang="pl">dokumentalny</category>
-  </programme>
   <programme channel="moconomy-pl" start="20250331170441 +0200" stop="20250331180641 +0200">
     <title lang="pl">Światowy Rynek Sztuki</title>
     <desc lang="pl">Światowy rynek sztuki jest warty 67,8 miliarda dolarów. To ekosystem skrajności charakteryzujący się głębokimi strukturami władzy, rynek próżności, mitów i hipizmu, znajdujący się w rękach kilku wpływowych graczy. Za błyszczącą fasadą królują nierówność i konkurencja. Industrializacja od lat 90. XX wieku, przyspieszyła handel dziełami sztuki i zglobalizowała zbiorowy gust, ale sam rynek sztuki pozostaje w dużej mierze nieprzejrzysty. Dlaczego? Jak funkcjonuje światowy rynek sztuki? Kto ustala ceny? Jak działają domy aukcyjne i galerie? Dlaczego super bogaci inwestują w sztukę, co tak naprawdę dostają artyści oraz jak Internet wpływa na handel dziełami sztuki? Zespół kanału Moconomy...</desc>
@@ -7263,12 +7146,6 @@
     <title lang="pl">Kto Rządzi Ameryką Part 2</title>
     <desc lang="pl">Spojrzenie na tak zwany demokratyczny system rządzenia w Stanach Zjednoczonych Ameryki, ujawniający rzeczywiste siły, które rządzą narodem.</desc>
     <category lang="pl">dokumentalny</category>
-  </programme>
-  <programme channel="american-crime-channel" start="20250331164051 +0200" stop="20250331173701 +0200">
-    <title lang="pl">Accomplice to Murder With Vinnie Politan</title>
-    <sub-title lang="pl">S01 : E08 Accomplice to Murder With Vinnie Politan</sub-title>
-    <desc lang="pl">Kristi Koslow's relationship with her stepmother Caren and her father Jack Koslow was strained at best. But was she really the ruthless mastermind that police portrayed her as after her boyfriend.</desc>
-    <category lang="pl">Rozrywka</category>
   </programme>
   <programme channel="american-crime-channel" start="20250331173702 +0200" stop="20250331180544 +0200">
     <title lang="pl">72 Hours: True Crime</title>
@@ -7704,18 +7581,6 @@
     <title lang="pl">Victim To Verdict With Ted Rowlands</title>
     <sub-title lang="pl">S02 : E02 Victim To Verdict With Ted Rowlands</sub-title>
     <desc lang="pl">During a quiet summer evening in 2017, a woman dials 911 to report her husband is dead on the floor of his snake breeding facility. Lynlee Renick claims she has no idea who shot and killed 29-year-old Ben Renick, a world-renowned snake breeder and father of two. After four years of twists, turns and secrets revealed, Lynlee Renick goes to trial and Court TV's cameras are there for her testimony and a surprising sentence.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="filmrise-buzzfeed-unsolved" start="20250331163714 +0200" stop="20250331171428 +0200">
-    <title lang="pl">BuzzFeed Unsolved</title>
-    <sub-title lang="pl">S05 : E07 BuzzFeed Unsolved</sub-title>
-    <desc lang="pl">Ryan and Shane search the spine-chilling depths of London's haunted catacombs and uncover some of history's darkest secrets.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="filmrise-buzzfeed-unsolved" start="20250331171429 +0200" stop="20250331175218 +0200">
-    <title lang="pl">BuzzFeed Unsolved</title>
-    <sub-title lang="pl">S05 : E08 BuzzFeed Unsolved</sub-title>
-    <desc lang="pl">Ryan and Shane stay overnight at the infamous Winchester Mansion, facing unexpected scares and chilling voices as they explore the eerie basement and haunted bedrooms.</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
   <programme channel="filmrise-buzzfeed-unsolved" start="20250331175219 +0200" stop="20250331182000 +0200">
@@ -8240,12 +8105,6 @@
     <desc lang="pl">Ryan and Shane unravel the tale of a tragic love triangle and cover a thrilling escape from Alcatraz Prison.</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
-  <programme channel="filmrise-dr-g-medical-examiner" start="20250331162100 +0200" stop="20250331171351 +0200">
-    <title lang="pl">Dr. G: Medical Examiner</title>
-    <sub-title lang="pl">S02 : E03 Dr. G: Medical Examiner</sub-title>
-    <desc lang="pl">Melissa Riobe's life is ruled by her addiction to drugs.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
   <programme channel="filmrise-dr-g-medical-examiner" start="20250331171352 +0200" stop="20250331180645 +0200">
     <title lang="pl">Dr. G: Medical Examiner</title>
     <sub-title lang="pl">S02 : E04 Dr. G: Medical Examiner</sub-title>
@@ -8629,18 +8488,6 @@
     <sub-title lang="pl">S05 : E07 Dr. G: Medical Examiner</sub-title>
     <desc lang="pl">All signs point to foul play in the case of a dead hunter and the police fear that a killer is on the loose.</desc>
     <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="top-million-dollar-agent" start="20250331163904 +0200" stop="20250331170929 +0200">
-    <title lang="pl">Top Million Dollar Agent</title>
-    <sub-title lang="pl">S02 : E22 Top Million Dollar Agent</sub-title>
-    <desc lang="pl">Vezi and Deborah love the house they purchased last season in Stouffville, but they are ready to make the move to the big city. They enlist the help of Inez Kudryk to show them the best properties she can find in Toronto, and they are especially keen on the Beaches neighborhood. Vezi works in the music industry, so Inez lines up some special surprises to wow her clients!</desc>
-    <category lang="pl">Reality Shows</category>
-  </programme>
-  <programme channel="top-million-dollar-agent" start="20250331170930 +0200" stop="20250331173955 +0200">
-    <title lang="pl">Top Million Dollar Agent</title>
-    <sub-title lang="pl">S02 : E23 Top Million Dollar Agent</sub-title>
-    <desc lang="pl">Laura and Steven are a young couple with an expanding family, and are ready to take the next steps in home ownership. They want a large plot of land for their young children to run around and enjoy nature, and a spacious home that reflects this new phase of their life. Steve Bailey is the man for the job, and with such great homes to choose from, Laura and Steve will be hard pressed to pick just one!</desc>
-    <category lang="pl">Reality Shows</category>
   </programme>
   <programme channel="top-million-dollar-agent" start="20250331173956 +0200" stop="20250331181022 +0200">
     <title lang="pl">Top Million Dollar Agent</title>
@@ -9301,24 +9148,6 @@
     <sub-title lang="pl">S06 : E04 Top Million Dollar Agent</sub-title>
     <desc lang="pl">Real Estate Agents Jasmine Xuereb &amp; Laura Compagni team up to aid power couple Jamie and Jennifer in purchasing either a real estate investment in Canada or Belize.</desc>
     <category lang="pl">Reality Shows</category>
-  </programme>
-  <programme channel="jail" start="20250331164030 +0200" stop="20250331170455 +0200">
-    <title lang="pl">Jail</title>
-    <sub-title lang="pl">S06 : E09 DUI Death</sub-title>
-    <desc lang="pl">An inmate fails to impress the staff with his witticisms. A woman boasts about excelling at her DUI field test, and a man learns his wreckless driving has resulted in the death of a man.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="jail" start="20250331170501 +0200" stop="20250331172926 +0200">
-    <title lang="pl">Jail</title>
-    <sub-title lang="pl">S06 : E08 Cousins</sub-title>
-    <desc lang="pl">A woman is charged with possession of a controlled substance. A woman denies assaulting her husband, and two aggressive cousins threaten police and end up in isolation.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="jail" start="20250331172932 +0200" stop="20250331175357 +0200">
-    <title lang="pl">Jail</title>
-    <sub-title lang="pl">S06 : E28 King of Karate</sub-title>
-    <desc lang="pl">An intoxicated man thinks the doctors are CIA agents. A homeless karate practitioner's actions land him in an isolated cell, and a Canadian man with no pants wants to arm wrestle.</desc>
-    <category lang="pl">Rozrywka</category>
   </programme>
   <programme channel="jail" start="20250331175403 +0200" stop="20250331181901 +0200">
     <title lang="pl">Jail</title>
@@ -10136,24 +9965,6 @@
     <desc lang="pl">In Sarasota, FL an unruly detainee is sent to isolation, twice. In Multnomah county a young man feverishly waits for his release. In Portland, OR a man is jailed for bitting his girlfriend.</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
-  <programme channel="cops" start="20250331163431 +0200" stop="20250331170051 +0200">
-    <title lang="pl">Cops</title>
-    <sub-title lang="pl">S13 : E35 Bear the Cost</sub-title>
-    <desc lang="pl">Officers discover a grand theft auto suspect hiding in his apartment. Officers assist the fire department in capturing a brown bear from a palm tree. Officers respond to a shooting.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="cops" start="20250331170057 +0200" stop="20250331172627 +0200">
-    <title lang="pl">Cops</title>
-    <sub-title lang="pl">S23 : E14 Bumming a Smoke</sub-title>
-    <desc lang="pl">A suspect tries to elude officers by driving on a rough road. An argument over a cigarette turns ugly. Kids throw rocks from an overpass at the wrong car.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="cops" start="20250331172633 +0200" stop="20250331175202 +0200">
-    <title lang="pl">Cops</title>
-    <sub-title lang="pl">S15 : E35 Crooked as a Fish Hook</sub-title>
-    <desc lang="pl">A reverse drug operation proves successful for officers in both Tampa, FL and Palm Beach County, FL. Officers are in search of a suspect responsible for burglary.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
   <programme channel="cops" start="20250331175209 +0200" stop="20250331181637 +0200">
     <title lang="pl">Cops</title>
     <sub-title lang="pl">S26 : E07 The Fighting Kind</sub-title>
@@ -10940,12 +10751,6 @@
     <desc lang="pl">Police investigate an attempted robbery that turned deadly. Officers enlist a K9 unit to flush out a suspect. A high-speed chase comes to an end when the suspect crashes into a fence.</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
-  <programme channel="cartoon-classics" start="20250331170000 +0200" stop="20250331175959 +0200">
-    <title lang="pl">Cartoon Classics</title>
-    <sub-title lang="pl"></sub-title>
-    <desc lang="pl"></desc>
-    <category lang="pl">Dla dzieci</category>
-  </programme>
   <programme channel="cartoon-classics" start="20250331180000 +0200" stop="20250331185959 +0200">
     <title lang="pl">Cartoon Classics</title>
     <sub-title lang="pl"></sub-title>
@@ -11280,16 +11085,6 @@
     <title lang="pl">Cartoon Classics</title>
     <sub-title lang="pl"></sub-title>
     <desc lang="pl"></desc>
-    <category lang="pl">Dla dzieci</category>
-  </programme>
-  <programme channel="car-city-adventures-pl" start="20250331164110 +0200" stop="20250331172048 +0200">
-    <title lang="pl">Tom the Tow Truck</title>
-    <desc lang="pl">Poznaj Toma, wynalazcę z Samochodzikowa! W swoim nowoczesnym laboratorium tworzy wynalazki, aby rozwiązać problemy przyjaciół.</desc>
-    <category lang="pl">Dla dzieci</category>
-  </programme>
-  <programme channel="car-city-adventures-pl" start="20250331172049 +0200" stop="20250331175712 +0200">
-    <title lang="pl">Tom's Garage</title>
-    <desc lang="pl">Tom the Tow Truck pomaga swoim przyjaciołom z Car City, gdy ci potrzebują naprawy. Zawsze daje im coś specjalnego po każdej pracy.</desc>
     <category lang="pl">Dla dzieci</category>
   </programme>
   <programme channel="car-city-adventures-pl" start="20250331175713 +0200" stop="20250331183025 +0200">
@@ -11755,18 +11550,6 @@
   <programme channel="car-city-adventures-pl" start="20250403014926 +0200" stop="20250403022220 +0200">
     <title lang="pl">Construction Squad</title>
     <desc lang="pl">Zespół budowlany buduje Samochodzikowo cegła po cegle! Pokazują, że wszystko jest możliwe z pomocą naszych przyjaciół.</desc>
-    <category lang="pl">Dla dzieci</category>
-  </programme>
-  <programme channel="baby-shark-tv" start="20250331165958 +0200" stop="20250331173044 +0200">
-    <title lang="pl">Bebefinn Trex and Animal friends</title>
-    <sub-title lang="pl">S01 : E02 Episode 2</sub-title>
-    <desc lang="pl">Tyrannosaurus Rex! I’m the best hunter! Tyrannosaurus Rex! Who’s going to be my prey? Look at my mighty teeth,look at my mighty jaws. No one can run away from me! Roar!</desc>
-    <category lang="pl">Dla dzieci</category>
-  </programme>
-  <programme channel="baby-shark-tv" start="20250331173050 +0200" stop="20250331175455 +0200">
-    <title lang="pl">Ninimo is Sick</title>
-    <sub-title lang="pl">S01 : E01 Ninimo is Sick</sub-title>
-    <desc lang="pl">Ninimo has caught a cold! Become a doctor with Hogi and Forest to treat sick Ninimo!</desc>
     <category lang="pl">Dla dzieci</category>
   </programme>
   <programme channel="baby-shark-tv" start="20250331175502 +0200" stop="20250331182718 +0200">
@@ -12998,12 +12781,6 @@
     <desc lang="pl">Funk, Soul, Hi-NRG, new jack swing &amp; house took dance in all sorts of new directions during the 80s &amp; Radio 1's Friday night "Big Beat" DJ Jeff Young was there! </desc>
     <category lang="pl">Muzyka</category>
   </programme>
-  <programme channel="now-70s" start="20250331150001 +0200" stop="20250331175000 +0200">
-    <title lang="pl">Derek Griffiths: Playschool Disco!</title>
-    <sub-title lang="pl">S00 : E00 Derek Griffiths: Playschool Disco!</sub-title>
-    <desc lang="pl">The voice of your childhood Derek Griffiths with 40 of those tunes you pestered your parents to buy - all top pop moments that still bring a smile &amp; happy memories of school days!</desc>
-    <category lang="pl">Muzyka</category>
-  </programme>
   <programme channel="now-70s" start="20250331175001 +0200" stop="20250331180000 +0200">
     <title lang="pl">Spring Has Sprung!</title>
     <sub-title lang="pl">S00 : E00 Spring Has Sprung!</sub-title>
@@ -13236,11 +13013,6 @@
     <title lang="pl">30 Boys In Love - In The 70s!</title>
     <sub-title lang="pl">S00 : E00 30 Boys In Love - In The 70s!</sub-title>
     <desc lang="pl">From classic ballads to life affirming love songs. Full of gyrating guys, raspy rockers &amp; disco dudes - but all have that Burning Love over the next 2 hours!</desc>
-    <category lang="pl">Muzyka</category>
-  </programme>
-  <programme channel="qello-concerts-by-stingray" start="20250331160212 +0200" stop="20250331170211 +0200">
-    <title lang="pl">Qello Concerts by Stingray - DE</title>
-    <desc lang="pl">Qello Concerts by Stingray - DE</desc>
     <category lang="pl">Muzyka</category>
   </programme>
   <programme channel="qello-concerts-by-stingray" start="20250331170212 +0200" stop="20250331180211 +0200">
@@ -13913,26 +13685,6 @@
     <desc lang="pl">Enjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!</desc>
     <category lang="pl">Muzyka</category>
   </programme>
-  <programme channel="clubbing-tv" start="20250331164501 +0200" stop="20250331170000 +0200">
-    <title lang="pl">The Big Bad Box </title>
-    <desc lang="pl">Our brand new studio show The Big Bad Box will kick off the season this month! One studio, one screen, one guest and 13 minutes to get to know better your favorite artists.</desc>
-    <category lang="pl">Muzyka</category>
-  </programme>
-  <programme channel="clubbing-tv" start="20250331170001 +0200" stop="20250331170800 +0200">
-    <title lang="pl">Put Your Hands Up </title>
-    <desc lang="pl">Our reports and aftermovies from electronic music festivals all over the world. Our Clubbing TV teams are travelling all over the world to guide you through those amazing party spots ! Interviews with DJs, clubbers and event organizers, there is no escape from our cameras !</desc>
-    <category lang="pl">Muzyka</category>
-  </programme>
-  <programme channel="clubbing-tv" start="20250331170801 +0200" stop="20250331171300 +0200">
-    <title lang="pl">Rendez-vous</title>
-    <desc lang="pl">Interviews with the world's famous DJs and producers. Clubbing TV meets with talents of all genres: Big Room stars or underground heroes, legendary or upcoming artist, we got them all on Clubbing TV !</desc>
-    <category lang="pl">Muzyka</category>
-  </programme>
-  <programme channel="clubbing-tv" start="20250331171301 +0200" stop="20250331172000 +0200">
-    <title lang="pl">Put Your Hands Up </title>
-    <desc lang="pl">Our reports and aftermovies from electronic music festivals all over the world. Our Clubbing TV teams are travelling all over the world to guide you through those amazing party spots ! Interviews with DJs, clubbers and event organizers, there is no escape from our cameras !</desc>
-    <category lang="pl">Muzyka</category>
-  </programme>
   <programme channel="clubbing-tv" start="20250331172001 +0200" stop="20250331180000 +0200">
     <title lang="pl">Music Video Hits</title>
     <desc lang="pl">Large selection of the newest Dance Music Videos : From House Music to EDM, Groovy, Vocal, Uplifting tracks, welcome to Clubbing TV's finest selection. </desc>
@@ -14428,11 +14180,6 @@
     <desc lang="pl">Recorded from amazing places all around the world, forests, roof tops, boat parties, clubs or just wonderful places, enjoy DJ Set and live performances from your favorite artists! </desc>
     <category lang="pl">Muzyka</category>
   </programme>
-  <programme channel="gusto-tv-new" start="20250331170005 +0200" stop="20250331175958 +0200">
-    <title lang="pl">Gusto TV</title>
-    <desc lang="pl">Gusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.</desc>
-    <category lang="pl">gotowanie</category>
-  </programme>
   <programme channel="gusto-tv-new" start="20250331180005 +0200" stop="20250331185958 +0200">
     <title lang="pl">Gusto TV</title>
     <desc lang="pl">Gusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.</desc>
@@ -14711,18 +14458,6 @@
   <programme channel="gusto-tv-new" start="20250403010005 +0200" stop="20250403015958 +0200">
     <title lang="pl">Gusto TV</title>
     <desc lang="pl">Gusto TV is the world's best food channel. We celebrate culture and diversity in fun and innovative ways. We make your mouth water and your tummy rumble. Food is the one true global language and Gusto TV speaks all dialects.</desc>
-    <category lang="pl">gotowanie</category>
-  </programme>
-  <programme channel="tastemade-intl" start="20250331165001 +0200" stop="20250331171500 +0200">
-    <title lang="pl">Bacon My Heart</title>
-    <sub-title lang="pl">S01 : E04 Struggle Meals</sub-title>
-    <desc lang="pl">Three versatile items - bacon, eggs, and a whole chicken - will feed you a plethora of delicious cheap meals.</desc>
-    <category lang="pl">gotowanie</category>
-  </programme>
-  <programme channel="tastemade-intl" start="20250331171501 +0200" stop="20250331174000 +0200">
-    <title lang="pl">Street Food Faves at Home</title>
-    <sub-title lang="pl">S01 : E08 Struggle Meals</sub-title>
-    <desc lang="pl">Frankie makes street food at home. Get ready! - because you've never seen rice like this before.</desc>
     <category lang="pl">gotowanie</category>
   </programme>
   <programme channel="tastemade-intl" start="20250331174001 +0200" stop="20250331180500 +0200">
@@ -15511,12 +15246,6 @@
     <desc lang="pl">Step into the magical world of professional pastry chefs and prepare to be seriously mesmerised.</desc>
     <category lang="pl">gotowanie</category>
   </programme>
-  <programme channel="red-carpet-tv-international" start="20250331170000 +0200" stop="20250331175959 +0200">
-    <title lang="pl">Red Carpet TV International</title>
-    <sub-title lang="pl"></sub-title>
-    <desc lang="pl"></desc>
-    <category lang="pl">Styl życia</category>
-  </programme>
   <programme channel="red-carpet-tv-international" start="20250331180000 +0200" stop="20250331185959 +0200">
     <title lang="pl">Red Carpet TV International</title>
     <sub-title lang="pl"></sub-title>
@@ -15853,12 +15582,6 @@
     <desc lang="pl"></desc>
     <category lang="pl">Styl życia</category>
   </programme>
-  <programme channel="stingray-naturescape" start="20250331165901 +0200" stop="20250331175900 +0200">
-    <title lang="pl">Natural Beauty</title>
-    <sub-title lang="pl">S2019 : E09 Natural Beauty</sub-title>
-    <desc lang="pl">Footage of Douro Valley, one of Portugal's most scenic wine regions.</desc>
-    <category lang="pl">Styl życia</category>
-  </programme>
   <programme channel="stingray-naturescape" start="20250331175901 +0200" stop="20250331185900 +0200">
     <title lang="pl">Sunny Getaways</title>
     <sub-title lang="pl">S01 : E08 Sunny Getaways</sub-title>
@@ -16160,18 +15883,6 @@
   <programme channel="stingray-naturescape" start="20250403015901 +0200" stop="20250403025900 +0200">
     <title lang="pl">Celebrate Earth Month</title>
     <desc lang="pl">Enjoy thousands of the most stunning landscapes from around the world and stand with nature this Earth Month.</desc>
-    <category lang="pl">Styl życia</category>
-  </programme>
-  <programme channel="travelxp-eng" start="20250331165130 +0200" stop="20250331172124 +0200">
-    <title lang="pl">Great World Hotels</title>
-    <sub-title lang="pl">S01 : E02 Great World Hotels Closenberg, Sri Lanka</sub-title>
-    <desc lang="pl">Great World Hotels Closenberg, Sri Lanka</desc>
-    <category lang="pl">Styl życia</category>
-  </programme>
-  <programme channel="travelxp-eng" start="20250331172131 +0200" stop="20250331175125 +0200">
-    <title lang="pl">The Moroccon Chronicles</title>
-    <sub-title lang="pl">S01 : E02 The Moroccon Chronicles_The Ballad of Fes(Eng)</sub-title>
-    <desc lang="pl">The imperial city of Fes, with its richly evocative attractions, makes Rafe feel like he is in a movie...with a plot twist right around the corner.</desc>
     <category lang="pl">Styl życia</category>
   </programme>
   <programme channel="travelxp-eng" start="20250331175131 +0200" stop="20250331182125 +0200">
@@ -16876,18 +16587,6 @@
     <desc lang="pl">Visit Belgrade, with Heather as she explores the city, its architecture and learns about its past by visiting historical monuments.</desc>
     <category lang="pl">Styl życia</category>
   </programme>
-  <programme channel="the-design-network-new" start="20250331163001 +0200" stop="20250331170000 +0200">
-    <title lang="pl">Living in Art: Kaleidoscopic Homes</title>
-    <sub-title lang="pl">S01 : E01 Alt Home</sub-title>
-    <desc lang="pl">Jillian experiences a kaleidoscope of color exploring the Mosaic Tile House and the Rainbow House.</desc>
-    <category lang="pl">Styl życia</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20250331170001 +0200" stop="20250331173000 +0200">
-    <title lang="pl">Container Homes: All Shapes and Sizes</title>
-    <sub-title lang="pl">S01 : E02 Alt Home</sub-title>
-    <desc lang="pl">Jillian visits two homeowners who have taken containers—and creativity—to extraordinary new heights.</desc>
-    <category lang="pl">Styl życia</category>
-  </programme>
   <programme channel="the-design-network-new" start="20250331173001 +0200" stop="20250331180000 +0200">
     <title lang="pl">Off-Grid Living: The Creative Space</title>
     <sub-title lang="pl">S01 : E03 Alt Home</sub-title>
@@ -17566,11 +17265,6 @@
     <desc lang="pl">International model Nicole Williams English heads to the Bronx to celebrate Covenant House.</desc>
     <category lang="pl">Styl życia</category>
   </programme>
-  <programme channel="fashion-tv" start="20250331140005 +0200" stop="20250331175958 +0200">
-    <title lang="pl">FashionTV Global</title>
-    <desc lang="pl">FashionTV L'Original</desc>
-    <category lang="pl">Styl życia</category>
-  </programme>
   <programme channel="fashion-tv" start="20250331180005 +0200" stop="20250331215958 +0200">
     <title lang="pl">FashionTV Global</title>
     <desc lang="pl">FashionTV L'Original</desc>
@@ -17640,17 +17334,6 @@
     <title lang="pl">FashionTV Global</title>
     <desc lang="pl">FashionTV L'Original</desc>
     <category lang="pl">Styl życia</category>
-  </programme>
-  <programme channel="motorvision-tv" start="20250331160001 +0200" stop="20250331170000 +0200">
-    <title lang="pl">Rolls-Royce Dawn Convertible</title>
-    <desc lang="pl">Almost silently, it glides through the night; in front of the driver, 12 smoothly running cylinders are at work, with a power reserve that seems inexhaustible; the Rolls Royce Dawn is a convertible for connoisseurs.</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="motorvision-tv" start="20250331170001 +0200" stop="20250331173000 +0200">
-    <title lang="pl">StreetWise</title>
-    <sub-title lang="pl">S01 : E01 StreetWise</sub-title>
-    <desc lang="pl">All the latest in car presentations, new technology and cutting-edge tests from the auto industry.</desc>
-    <category lang="pl">Sport</category>
   </programme>
   <programme channel="motorvision-tv" start="20250331173001 +0200" stop="20250331180000 +0200">
     <title lang="pl">StreetWise</title>
@@ -18191,12 +17874,6 @@
     <desc lang="pl">Testing what Corvettes, Porsches and Ferraris really have under the hood after SKN Tuning.</desc>
     <category lang="pl">Sport</category>
   </programme>
-  <programme channel="red-bull-tv-en" start="20250331165401 +0200" stop="20250331174619 +0200">
-    <title lang="pl">Red Bull Soapbox Race</title>
-    <sub-title lang="pl">S11 : E04 Red Bull Soapbox 2023 – Jordan</sub-title>
-    <desc lang="pl">The Red Bull Soapbox Race 2023 in Jordan gives creative teams and their handmade cars a wild track amid Amman’s hills, facing twists, turns and crashes in a colourful display of speed and fun.</desc>
-    <category lang="pl">Sport</category>
-  </programme>
   <programme channel="red-bull-tv-en" start="20250331174625 +0200" stop="20250331181704 +0200">
     <title lang="pl">Red Bull Flugtag</title>
     <sub-title lang="pl">S01 : E01 Red Bull Flugtag – Portland</sub-title>
@@ -18705,12 +18382,6 @@
     <title lang="pl">Red Bull Flugtag</title>
     <sub-title lang="pl">S01 : E02 Red Bull Flugtag – Oslo</sub-title>
     <desc lang="pl">Local flavours rule the day as teams dress up their homemade flying machines in honour of local delicacies, native festivals and more.</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="mavtv-motorsports-network-new" start="20250331160001 +0200" stop="20250331170000 +0200">
-    <title lang="pl">America's Pull - Super Stock Diesel Trucks/Mini Rod</title>
-    <sub-title lang="pl">S00 : E00 Pro Pulling League</sub-title>
-    <desc lang="pl">Showcasing the most extreme vehicles and the most talented pulling drivers in the world.</desc>
     <category lang="pl">Sport</category>
   </programme>
   <programme channel="mavtv-motorsports-network-new" start="20250331170001 +0200" stop="20250331180000 +0200">
@@ -20028,12 +19699,6 @@
     <desc lang="pl">A long and exciting World E-Bike Series season enters its final two rounds in Girona and Barcelona. Who will be crowned the winner of the series this year? Let´s check out!</desc>
     <category lang="pl">Sport</category>
   </programme>
-  <programme channel="strongman-champions-league" start="20250331164546 +0200" stop="20250331174506 +0200">
-    <title lang="pl">Strongman Champions League</title>
-    <sub-title lang="pl">S05 : E11 SCL 2018 Season 5, Episode 11, Romania (Part 2)</sub-title>
-    <desc lang="pl">After three classical Strongman events – Dead lift, Loading and Front hold – and one historical, Chopper Pull for the first time in history of Strongman, now we go to find out who will take title in Romania. This is the second stage in Romania and it remains to be seen who will win the title; Aivars, Travis or Krzyzstof?</desc>
-    <category lang="pl">Sport</category>
-  </programme>
   <programme channel="strongman-champions-league" start="20250331174513 +0200" stop="20250331184435 +0200">
     <title lang="pl">Strongman Champions League</title>
     <sub-title lang="pl">S05 : E12 SCL 2018 Season 5, Episode 12, Curacao (Part 1)</sub-title>
@@ -20587,16 +20252,6 @@
   <programme channel="pfl-mma" start="20250403014752 +0200" stop="20250403024658 +0200">
     <title lang="pl">2024 PFL MENA Championship Cutdown</title>
     <desc lang="pl">Highlight version of the 2024 PFL MENA Championships</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="dazn-combat" start="20250331160134 +0200" stop="20250331170039 +0200">
-    <title lang="pl">Valle vs. Nguyen (2022)</title>
-    <desc lang="pl">Catch Yokasta Valle vs Thi Nguyen on DAZN, the home of Boxing.</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="dazn-combat" start="20250331170040 +0200" stop="20250331172212 +0200">
-    <title lang="pl">Small Talk - Catterall v Barboza</title>
-    <desc lang="pl">Enjoy the first episode of Small Talk, hosted by Sunny Edwards and Charlie Parsons.</desc>
     <category lang="pl">Sport</category>
   </programme>
   <programme channel="dazn-combat" start="20250331172213 +0200" stop="20250331183351 +0200">
@@ -21352,11 +21007,6 @@
     <desc lang="pl">2 hours of nothing but great knockouts and exciting fights.</desc>
     <category lang="pl">Sport</category>
   </programme>
-  <programme channel="impact-wrestling" start="20250331150401 +0200" stop="20250331175602 +0200">
-    <title lang="pl">Sacrifice 2021</title>
-    <desc lang="pl">March 13, 2021. Features Rich Swann vs. Moose to unify the IMPACT World Championship and TNA World Heavyweight</desc>
-    <category lang="pl">Sport</category>
-  </programme>
   <programme channel="impact-wrestling" start="20250331175603 +0200" stop="20250331184720 +0200">
     <title lang="pl">TNA in 60</title>
     <sub-title lang="pl">S01 : E24 TNA in 60</sub-title>
@@ -21519,11 +21169,6 @@
     <title lang="pl">TNA in 60</title>
     <sub-title lang="pl">S01 : E124 TNA in 60</sub-title>
     <desc lang="pl">Memorable moments from Jordynne Grace's IMPACT Wrestling career.</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="hard-knocks-fighting-championship" start="20250331164700 +0200" stop="20250331170249 +0200">
-    <title lang="pl">M-1 Challenge 88 - Movsar Evloev v. Sergey Morozov</title>
-    <desc lang="pl">Movsar Evloev v. Sergey Morozov</desc>
     <category lang="pl">Sport</category>
   </programme>
   <programme channel="hard-knocks-fighting-championship" start="20250331170250 +0200" stop="20250331181834 +0200">
@@ -22128,12 +21773,6 @@
     <desc lang="pl">Georgina van der Linden v. Samantha Van Doorn Martin Pacas v. Ismael Lazaar Ulrik Bokeme v. Ibrahim El Boustati Redouan Laarkoubi v. Yassan Baitar Jonay Risco v. Tayfun Ozcan Nordin Ben Moh v. Mohammed Jaraya Ilias Bulaid v. Zakaria Zouggary</desc>
     <category lang="pl">Sport</category>
   </programme>
-  <programme channel="billiards-tv" start="20250331155054 +0200" stop="20250331173836 +0200">
-    <title lang="pl">75th World Championship 3-Cushion</title>
-    <sub-title lang="pl">S01 : E01 [EN Com.] 75th WCH 3C_Q - Q.C. TRAN vs O. KARAKURT</sub-title>
-    <desc lang="pl">Watch Quals - Quyet Chien TRAN (Vietnam) vs Omer KARAKURT (Turkey) at the [75th World Championship 3-Cushion ] | English commentary</desc>
-    <category lang="pl">Sport</category>
-  </programme>
   <programme channel="billiards-tv" start="20250331173842 +0200" stop="20250331193049 +0200">
     <title lang="pl">75th World Championship 3-Cushion</title>
     <sub-title lang="pl">S01 : E02 [EN Com.] 75th WCH 3C_Q - R. LEGAZPI vs R. FORTHOMME</sub-title>
@@ -22312,16 +21951,6 @@
     <title lang="pl">75th World Championship 3-Cushion</title>
     <sub-title lang="pl">S01 : E14 [EN Com.] 75th WCH 3C_QF - H. PATINO vs M.W. CHO</sub-title>
     <desc lang="pl">Watch Quarter Final - Hugo PATINO (USA) vs Myung Woo CHO (South Korea) at the [75th World Championship 3-Cushion ] | English commentary</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="fuel-tv-new" start="20250331163001 +0200" stop="20250331170000 +0200">
-    <title lang="pl">The Standard Snowboard Show - Season 1 - Victoria Jealouse &amp; Andrew Crawford</title>
-    <desc lang="pl">Featuring riders Victoria Jealouse and Andrew Crawford.</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="fuel-tv-new" start="20250331170001 +0200" stop="20250331173000 +0200">
-    <title lang="pl">Behind the Gate - 2023 - Almost There</title>
-    <desc lang="pl">The intensity of MXGP with a focus on Rubén Fernández and Romain Febvre during the Portugal race.</desc>
     <category lang="pl">Sport</category>
   </programme>
   <programme channel="fuel-tv-new" start="20250331173001 +0200" stop="20250331180000 +0200">
@@ -22724,16 +22353,6 @@
     <desc lang="pl">Jorge Prado and Jeffrey Herlings battle at Lommel, with Herlings' last-minute win stealing the show.</desc>
     <category lang="pl">Sport</category>
   </programme>
-  <programme channel="dazn-women-s-football" start="20250331145307 +0200" stop="20250331170951 +0200">
-    <title lang="pl">Liga F: FC Barcelona vs Real Madrid CF</title>
-    <desc lang="pl">Watch Barcelona take on Real Madrid in Liga F.</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="dazn-women-s-football" start="20250331170952 +0200" stop="20250331174029 +0200">
-    <title lang="pl">UWCL: Manchester City vs Chelsea</title>
-    <desc lang="pl">Watch highlights from  Man City v Chelsea FC Women in the UEFA Women's Champions League.</desc>
-    <category lang="pl">Sport</category>
-  </programme>
   <programme channel="dazn-women-s-football" start="20250331174030 +0200" stop="20250331181057 +0200">
     <title lang="pl">UWCL: Bayern München vs Lyon</title>
     <desc lang="pl">Watch highlights from FC Bayern Munchen v Olympique Lyonnais in the UEFA Women's Champions League.</desc>
@@ -22917,11 +22536,6 @@
   <programme channel="dazn-women-s-football" start="20250402230001 +0200" stop="20250403020000 +0200">
     <title lang="pl">To Be Announced</title>
     <desc lang="pl">Program information is not yet available</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="fifa-plus-eu-new" start="20250331164110 +0200" stop="20250331171249 +0200">
-    <title lang="pl">Croatia, the Giant Slayer</title>
-    <desc lang="pl">Enjoy Croatia's unforgettable victories against England in the 2018 FIFA World Cup™ and against Brazil in 2022.</desc>
     <category lang="pl">Sport</category>
   </programme>
   <programme channel="fifa-plus-eu-new" start="20250331171255 +0200" stop="20250331195236 +0200">
@@ -23142,12 +22756,6 @@
   <programme channel="fifa-plus-eu-new" start="20250403015622 +0200" stop="20250403034151 +0200">
     <title lang="pl">Netherlands v Germany FR | Final | 1974 FIFA World Cup Germany™ | Full Match Replay</title>
     <desc lang="pl">Watch the full replay from the match between Netherlands and Germany FR played at Olympiastadion, Munich on Sunday, 07 July 1974.</desc>
-    <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="top-barca-eng" start="20250331170000 +0200" stop="20250331175959 +0200">
-    <title lang="pl">TOP Barça</title>
-    <sub-title lang="pl"></sub-title>
-    <desc lang="pl"></desc>
     <category lang="pl">Sport</category>
   </programme>
   <programme channel="top-barca-eng" start="20250331180000 +0200" stop="20250331185959 +0200">
@@ -23485,18 +23093,6 @@
     <sub-title lang="pl"></sub-title>
     <desc lang="pl"></desc>
     <category lang="pl">Sport</category>
-  </programme>
-  <programme channel="zee-one-eng" start="20250331164944 +0200" stop="20250331171616 +0200">
-    <title lang="pl">Second Chances</title>
-    <sub-title lang="pl">S01 : E146 Second Chances S1 E146</sub-title>
-    <desc lang="pl">Yash, a rich and esteemed business tycoon, yearns for real love. While he falls in love with Neha, the journey ahead is not going to be an easy one for him. Will he be able to win Nehas heart?</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="zee-one-eng" start="20250331171623 +0200" stop="20250331174655 +0200">
-    <title lang="pl">Jodha Akbar</title>
-    <sub-title lang="pl">S01 : E146 Jodha Akbar S1 E146</sub-title>
-    <desc lang="pl">Jodha Akbar is a period drama set in the sixteenth century, focusing on the political marriage between Mughal Emperor Akbar and Rajput Princess Jodha Bai. Initially a marriage of convenience, it evolves into a deep love story that changes the fate of India. The series portrays the era's wars, the complex relationships between the Mughals and Rajputs, and the political dynamics of the royal court. Akbar, raised as a ruthless conqueror, learns the meaning of love and compassion through Jodha, who despises the Mughals for their invasions. Their relationship transforms Akbar from a heartless ruler into the beloved Emperor Akbar, known for his justice and wisdom.</desc>
-    <category lang="pl">Rozrywka</category>
   </programme>
   <programme channel="zee-one-eng" start="20250331174702 +0200" stop="20250331181513 +0200">
     <title lang="pl">This is Fate</title>
@@ -24206,11 +23802,6 @@
     <desc lang="pl">The story revolves around Geet, a young woman who follows her father's footsteps as a dhol player, challenging societal norms about gender roles in music. Her journey is supported by her husband, Malhar, who helps her pursue her dreams.</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
-  <programme channel="shades-of-black" start="20250331160052 +0200" stop="20250331175408 +0200">
-    <title lang="pl">The Mighty Quinn</title>
-    <desc lang="pl">Denzel Washington stars as a cop working to clear his friend's name of murder and theft.</desc>
-    <category lang="pl">Seriale</category>
-  </programme>
   <programme channel="shades-of-black" start="20250331175409 +0200" stop="20250331195332 +0200">
     <title lang="pl">Fatal Beauty</title>
     <desc lang="pl">Whoopi Goldberg stars as a tough narcotics cop using her many disguises to take down a drug ring.</desc>
@@ -24366,12 +23957,6 @@
     <title lang="pl">Soldier Boyz</title>
     <desc lang="pl">A group of prisoners heads to Vietnam to rescue a VIP's daughter, with freedom promised to those who survive.</desc>
     <category lang="pl">Seriale</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20250331165903 +0200" stop="20250331172957 +0200">
-    <title lang="pl">Humans VS. Everything</title>
-    <sub-title lang="pl">S02 : E01 Humans VS. Everything | Humans vs Elements</sub-title>
-    <desc lang="pl">From gusty winds to fiery flames, get ready to watch humans face off against the unstoppable elements!</desc>
-    <category lang="pl">Rozrywka</category>
   </programme>
   <programme channel="jukin-fail-army-new" start="20250331173003 +0200" stop="20250331180057 +0200">
     <title lang="pl">World's Most Expensive Fails</title>
@@ -24997,18 +24582,6 @@
     <title lang="pl">FAILARMY: 50 VS. 50</title>
     <sub-title lang="pl">S01 : E08 FAILARMY: 50 VS. 50 | States vs. Nations</sub-title>
     <desc lang="pl">Fails from across the globe are up against the fifty, nifty, United States to see where the best fails happen!</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="revry" start="20250331150006 +0200" stop="20250331170000 +0200">
-    <title lang="pl">The Pearl</title>
-    <sub-title lang="pl">S01 : E01 The Pearl</sub-title>
-    <desc lang="pl">The Pearl is an intimate profile of 4 transgender women coming out in their senior years.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="revry" start="20250331170006 +0200" stop="20250331174000 +0200">
-    <title lang="pl">Dawn: A Charleston Legend</title>
-    <sub-title lang="pl">S01 : E01 Dawn: A Charleston Legend</sub-title>
-    <desc lang="pl">The story of Dawn Langley Simmons, one of the first transgender and interracial marriage pioneers.</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
   <programme channel="revry" start="20250331174006 +0200" stop="20250331193000 +0200">
@@ -25671,18 +25244,6 @@
     <desc lang="pl">Check out all the action of the XIX World Finals and see who is crowned champion.</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
-  <programme channel="afv-family" start="20250331163114 +0200" stop="20250331170040 +0200">
-    <title lang="pl">Home Disaster Zone</title>
-    <sub-title lang="pl">S01 : E103 Home Disaster Zone - 103</sub-title>
-    <desc lang="pl">Episode 103 - We know the biggest disasters happen under the roof, in the garage, and in the backyard too. So get ready for the funniest videos that showcase the biggest home disasters, see which one gets the Royal Disaster Badge Of Honor.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="afv-family" start="20250331170046 +0200" stop="20250331173053 +0200">
-    <title lang="pl">Prank Party</title>
-    <sub-title lang="pl">S01 : E03 Prank Party - 03</sub-title>
-    <desc lang="pl">Prank Party is your destination for the funniest prank videos ever! You know you love watching people get startled, scared, and anything in-between! That's what Prank Party is all about - because it's all in good fun! From family pranks to Halloween pranks... pranking is our love language. Hosted..</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
   <programme channel="afv-family" start="20250331173059 +0200" stop="20250331192911 +0200">
     <title lang="pl">AFV Comedy Rush Hour</title>
     <sub-title lang="pl">S01 : E103 AFV Comedy Rush Hour - 103</sub-title>
@@ -26109,11 +25670,6 @@
     <desc lang="pl">Welcome to the funniest pet show anywhere in the WORLD! We know that's a bold claim, but it's true! We have gathered all of the funniest animal clips from the AFV library, and comedian host Matt O'Brien takes you on an adventure through the wonder world of pets! Join us for the laughs, the fur, and..</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
-  <programme channel="people-are-awesome-new" start="20250331160006 +0200" stop="20250331170000 +0200">
-    <title lang="pl">People Are Awesome</title>
-    <desc lang="pl">Discover, achieve, level up. We’re here to show you that anyone can do extraordinary things.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
   <programme channel="people-are-awesome-new" start="20250331170006 +0200" stop="20250331180000 +0200">
     <title lang="pl">People Are Awesome</title>
     <desc lang="pl">Discover, achieve, level up. We’re here to show you that anyone can do extraordinary things.</desc>
@@ -26397,18 +25953,6 @@
   <programme channel="people-are-awesome-new" start="20250403010006 +0200" stop="20250403020000 +0200">
     <title lang="pl">People Are Awesome</title>
     <desc lang="pl">Discover, achieve, level up. We’re here to show you that anyone can do extraordinary things.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="the-pet-collective-new" start="20250331163529 +0200" stop="20250331170623 +0200">
-    <title lang="pl">Best Pets of the Month</title>
-    <sub-title lang="pl">S05 : E10 Best Pets of the Month | Ep. 5.10</sub-title>
-    <desc lang="pl">These pets won September '22. But after watching these clips, the real winner is you.</desc>
-    <category lang="pl">Rozrywka</category>
-  </programme>
-  <programme channel="the-pet-collective-new" start="20250331170629 +0200" stop="20250331173723 +0200">
-    <title lang="pl">Best Pets of the Month</title>
-    <sub-title lang="pl">S05 : E11 Best Pets of the Month | Ep. 5.11</sub-title>
-    <desc lang="pl">These pets won October '22. But after watching these clips, the real winner is you.</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
   <programme channel="the-pet-collective-new" start="20250331173729 +0200" stop="20250331180923 +0200">
@@ -27056,12 +26600,6 @@
     <desc lang="pl">These pets won June '23. But after watching these clips, the real winner is you.</desc>
     <category lang="pl">Rozrywka</category>
   </programme>
-  <programme channel="rakuten-viki-new" start="20250331165351 +0200" stop="20250331172807 +0200">
-    <title lang="pl">Where Stars Land</title>
-    <sub-title lang="pl">S01 : E04 Where Stars Land</sub-title>
-    <desc lang="pl">One day, they get a call that someone placed a bomb at the airport.</desc>
-    <category lang="pl">Seriale</category>
-  </programme>
   <programme channel="rakuten-viki-new" start="20250331172813 +0200" stop="20250331180144 +0200">
     <title lang="pl">Where Stars Land</title>
     <sub-title lang="pl">S01 : E05 Where Stars Land</sub-title>
@@ -27452,12 +26990,6 @@
     <desc lang="pl">Yoo Mi and Jin Wook stay at one of the company’s resorts. Meanwhile, in Seoul, Hye Ri visits Hyeon Tae.</desc>
     <category lang="pl">Seriale</category>
   </programme>
-  <programme channel="filmrise-z-nation-en" start="20250331163125 +0200" stop="20250331172531 +0200">
-    <title lang="pl">Z Nation</title>
-    <sub-title lang="pl">S05 : E10 Z Nation</sub-title>
-    <desc lang="pl">The group discovers Altura militia forces have enslaved talkers to mine hazardous waste for Z-bizkuits.</desc>
-    <category lang="pl">Seriale</category>
-  </programme>
   <programme channel="filmrise-z-nation-en" start="20250331172532 +0200" stop="20250331182118 +0200">
     <title lang="pl">Z Nation</title>
     <sub-title lang="pl">S05 : E11 Z Nation</sub-title>
@@ -27836,11 +27368,6 @@
     <desc lang="pl">After taking refuge in a safe enclave where no weapons are allowed, the team finds itself thrust into a battle for control of the compound against a zombie-worshipping cult.</desc>
     <category lang="pl">Seriale</category>
   </programme>
-  <programme channel="grjngo-pl" start="20250331160012 +0200" stop="20250331174641 +0200">
-    <title lang="pl">Piąte - Nie Zabijaj</title>
-    <desc lang="pl">Po napadzie na bank grupa banitów zbiera się w opuszczonym saloonie. Okazuje się, że brakuje łupu, a bandyci zaczynają się wzajemnie obrażać.</desc>
-    <category lang="pl">Filmy</category>
-  </programme>
   <programme channel="grjngo-pl" start="20250331174647 +0200" stop="20250331192922 +0200">
     <title lang="pl">Przeżegnaj się Nieznajomy</title>
     <desc lang="pl">Łowca nagród chce schwytać bandytę imieniem Carson, ponieważ jego gang jest wart dużo pieniędzy.</desc>
@@ -28006,11 +27533,6 @@
     <desc lang="pl">Generał Custer - Miłość George'a Armstronga Custera do bohaterskich tradycji Kalwarii i niechęć do nadchodzącej industrializacji doprowadziły go do przeznaczenia pod Little Big Horn.</desc>
     <category lang="pl">Filmy</category>
   </programme>
-  <programme channel="bjgtjme-pl" start="20250331151543 +0200" stop="20250331171213 +0200">
-    <title lang="pl">Surogatka</title>
-    <desc lang="pl">The Surrogate to współczesna opowieść o grupie przyjaciół po czterdziestce z Bay Area, którzy wspólnie przeżywają trudne chwile.</desc>
-    <category lang="pl">Filmy</category>
-  </programme>
   <programme channel="bjgtjme-pl" start="20250331171219 +0200" stop="20250331184204 +0200">
     <title lang="pl">Beach Love</title>
     <desc lang="pl">Zmuszony do opieki nad młodszą siostrą po stracie obojga rodziców, szesnastolatek trafia do zagranicznego miasteczka surfingowego z prawie zniedołężniałymi dziadkami, ale szybko znajduje ukojenie w fantazjach o pin-up girl i wyrusza, by ją odnaleźć. Wyruszając w drogę kradzionym samochodem z nieproszonym gościem, jego poszukiwania prowadzą do wielu wyzwań, samopoznania i, co zaskakujące, nowej miłości." Written By Melanie McAvoy.</desc>
@@ -28174,18 +27696,6 @@
   <programme channel="bjgtjme-pl" start="20250403003200 +0200" stop="20250403022320 +0200">
     <title lang="pl">Pomocy! Mój Detektyw Jest Idiotą!</title>
     <desc lang="pl">Beznadziejny detektyw z Nowego Orleanu Biff Basham zostaje wplątany w sprawę szantażu, szpiegostwa i morderstw.</desc>
-    <category lang="pl">Filmy</category>
-  </programme>
-  <programme channel="lone-star-new" start="20250331163020 +0200" stop="20250331170011 +0200">
-    <title lang="pl">Adventures of Annie Oakley</title>
-    <sub-title lang="pl">S03 : E04 Annie and the Twisted Trails</sub-title>
-    <desc lang="pl">Feeling envious about Annies freedom and trick riding skills, Della runs away from home to see her boyfriend when the rodeo comes to town. While on her own, she meets a couple that secretly wants to rob her father.Annie Oakley: Gail Davis, Deputy Craig: Brad Johnson, Tagg Oakley: Jimmy Hawkins. Also starring Carolyn Craig, Ewing Mitchell, and Myron Healey. This western adventure series aired from 1954-1957. Cowboy star Gene Autrey was an executive producer for the show, which was nominated for a Primetime Emmy in 1955.</desc>
-    <category lang="pl">Filmy</category>
-  </programme>
-  <programme channel="lone-star-new" start="20250331170018 +0200" stop="20250331173019 +0200">
-    <title lang="pl">The Last of the Mohicans</title>
-    <sub-title lang="pl">S01 : E15 Scapegoat</sub-title>
-    <desc lang="pl">After a long winter, the Tuscarora tribe struggles for survival. Hawkeye and Chingachcook set out to help.Hawkeye: John Hart. Chingacchook: Lon Chaney Jr. This syndicated series was filmed in Toronto, and was the final project of prolific Hollywood director Sam Newfeild. Based on characters created by James Fenimore Cooper. Episode originally aired in 1957.</desc>
     <category lang="pl">Filmy</category>
   </programme>
   <programme channel="lone-star-new" start="20250331173026 +0200" stop="20250331180016 +0200">
@@ -28543,11 +28053,6 @@
   <programme channel="lone-star-new" start="20250403010529 +0200" stop="20250403020525 +0200">
     <title lang="pl">Sagebrush Trail</title>
     <desc lang="pl">John Wayne plays a man wrongly convicted of murder in this exciting western drama from Lone Star Pictures. You'll enjoy plenty of gun action and thundering hoofbeats as he escapes from jail and then joins a gang, hoping to find the real killer! Director Armand Schaefer (The Miracle Rider, The Lost Jungle) whips up some fine performances from a cast of B-movie favorites, including Lane Chandler (Samson and Delilah) and the great stunt rider, Yakima Canutt. And of course, the film features plenty of fight scenes, made memorable by John Wayne's big swinging' right fist! For film buffs: This was one of 11 films Wayne starred in that year, making 1933 one of the busiest years of Wayne's...</desc>
-    <category lang="pl">Filmy</category>
-  </programme>
-  <programme channel="top-movies-rakuten-tv" start="20250331152002 +0200" stop="20250331170557 +0200">
-    <title lang="pl">Kelnerzy</title>
-    <desc lang="pl">Ryan Reynolds występuje w tej przezabawnej komedii o grupie kelnerów i kelnerek poszukujących sensu życia podczas oczekiwania na kolejny duży napiwek.</desc>
     <category lang="pl">Filmy</category>
   </programme>
   <programme channel="top-movies-rakuten-tv" start="20250331170558 +0200" stop="20250331184737 +0200">
