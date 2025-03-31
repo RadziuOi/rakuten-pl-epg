@@ -63,13 +63,13 @@ Make the channels and programmes into something readable by XMLTV
 
         if pr.get('description') is not None:
             description = etree.SubElement(programme, "desc")
-            description.set('lang', 'en')
+            description.set('lang', 'pl')
             description.text = remove_control_characters(pr.get("description"))
 
         if pr.get('tags') is not None:
             if len(pr.get('tags')) > 0:
                 category = etree.SubElement(programme, "category")
-                category.set('lang', 'en')
+                category.set('lang', 'pl')
                 for tag in pr.get('tags'):
                     category.text = tag.get("name")
 
