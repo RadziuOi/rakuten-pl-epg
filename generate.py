@@ -4,7 +4,7 @@ from datetime import datetime, timedelta, time, timezone
 import pytz
 import unicodedata
 
-tz = pytz.timezone('Europe/London')
+tz = pytz.timezone('Europe/Warsaw')
 
 
 # From https://stackoverflow.com/questions/4324790/removing-control-characters-from-a-string-in-python
@@ -58,7 +58,7 @@ Make the channels and programmes into something readable by XMLTV
 
         if pr.get("subtitle") is not None:
             subtitle = etree.SubElement(programme, "sub-title")
-            subtitle.set('lang', 'en')
+            subtitle.set('lang', 'pl')
             subtitle.text = remove_control_characters(pr.get("subtitle"))
 
         if pr.get('description') is not None:
@@ -78,14 +78,14 @@ Make the channels and programmes into something readable by XMLTV
 
 days = get_days()
 
-url_string = (f"classification_id=18&device_identifier=web"
+url_string = (f"classification_id=277&device_identifier=web"
               f"&device_stream_audio_quality=2.0&device_stream_hdr_type=NONE&device_stream_video_quality=FHD"
               f"&epg_duration_minutes=360"
               f"&epg_ends_at={days[-1].strftime('%Y-%m-%dT%H:%M:%S.000Z')}"
               f"&epg_ends_at_timestamp={days[-1].timestamp()}"
               f"&epg_starts_at={days[0].strftime('%Y-%m-%dT%H:%M:%S.000Z')}"
               f"&epg_starts_at_timestamp={days[0].timestamp()}"
-              f"&locale=en&market_code=uk"
+              f"&locale=en&market_code=pl"
               f"&per_page=250")
 
 url = "https://gizmo.rakuten.tv/v3/live_channels?" + url_string.replace(":", "%3A")
