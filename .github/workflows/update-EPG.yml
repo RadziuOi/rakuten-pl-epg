@@ -26,10 +26,9 @@ jobs:
       - name: execute py script
         run: python generate.py
 
-      - name: Commit and push changes
+      - name: commit files
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg.xml
-          git commit -m "Auto Update EPG"
-          git push
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "Updated EPG listings on $RUN_DATE" --allow-empty)
