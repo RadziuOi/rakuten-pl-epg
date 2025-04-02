@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/RadziuOi/rakuten-pl-epg/refs/heads/master/epg.xml"
 
 #EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies Polska - Rakuten TV" group-title="filmy",Top Movies Polska - Rakuten TV
 https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
