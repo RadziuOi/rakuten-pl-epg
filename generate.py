@@ -72,7 +72,7 @@ days = get_days()
 
 url = "https://gizmo.rakuten.tv/v3/live_channels"
 
-params = {
+base_params = {
     "classification_id": "277",
     "device_identifier": "web",
     "device_stream_audio_quality": "2.0",
@@ -85,7 +85,7 @@ params = {
     "epg_starts_at_timestamp": int(days[0].timestamp()),
     "locale": "en",
     "market_code": "pl",
-    "per_page": "100"
+    "per_page": "50"
 }
 
 headers = {
@@ -96,15 +96,28 @@ headers = {
 }
 
 print("Grabbing data")
-res = requests.get(url, params=params, headers=headers)
 
-if res.status_code != 200:
-    print(f"Server response ({res.status_code}): {res.text}")
-    raise ConnectionError(f"HTTP{res.status_code}: could not get info from server!")
+json = []
+page = 1
 
-print("Loading JSON")
-json = res.json()['data']
-print(f"\nRetrieved {len(json)} channels:")
+while True:
+    params = base_params.copy()
+    params["page"] = str(page)
+    
+    res = requests.get(url, params=params, headers=headers)
+    if res.status_code != 200:
+        print(f"Server response ({res.status_code}): {res.text}")
+        raise ConnectionError(f"HTTP{res.status_code}: could not get info from server!")
+
+    page_data = res.json().get('data', [])
+    if not page_data:
+        break
+
+    json.extend(page_data)
+    print(f"Pobrano stronę {page} ({len(page_data)} kanałów)")
+    page += 1
+
+print(f"\nŁącznie pobrano {len(json)} kanałów:")
 
 channels_data = []
 programme_data = []
