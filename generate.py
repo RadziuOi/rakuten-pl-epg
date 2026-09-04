@@ -7,27 +7,19 @@ import unicodedata
 tz = pytz.timezone('Europe/Warsaw')
 
 
-# From https://stackoverflow.com/questions/4324790/removing-control-characters-from-a-string-in-python
 def remove_control_characters(s):
     return "".join(ch for ch in s if unicodedata.category(ch)[0] != "C")
 
 
 def get_days() -> list:
-    now = datetime.now().replace(hour=(datetime.now()).hour, minute=0, second=0, microsecond=0)
-    day_1 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(1))
-    day_2 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(2))
-    day_3 = (datetime.combine(datetime.now(), time(0, 0)) + timedelta(3))
+    now = datetime.now().replace(hour=datetime.now().hour, minute=0, second=0, microsecond=0)
+    day_1 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(1)
+    day_2 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(2)
+    day_3 = datetime.combine(datetime.now(), time(0, 0)) + timedelta(3)
     return [now, day_1, day_2, day_3]
 
 
 def build_xmltv(channels: list, programmes: list) -> bytes:
-    """
-Make the channels and programmes into something readable by XMLTV
-    :param channels: The list of channels to be generated
-    :param programmes: The list of programmes to be generated
-    :return: A sequence of bytes for XML
-    """
-    # Timezones since UK has daylight savings
     dt_format = '%Y%m%d%H%M%S %z'
 
     data = etree.Element("tv")
@@ -37,7 +29,7 @@ Make the channels and programmes into something readable by XMLTV
         channel = etree.SubElement(data, "channel")
         channel.set("id", str(ch.get("id")))
         name = etree.SubElement(channel, "display-name")
-        name.set("lang", ch.get("language")[:-1].lower())
+        name.set("lang", ch.get("language", "pl")[:-1].lower() if ch.get("language") else "pl")
         name.text = ch.get("name")
         if ch.get("icon") is not None:
             icon_src = etree.SubElement(channel, "icon")
@@ -78,21 +70,38 @@ Make the channels and programmes into something readable by XMLTV
 
 days = get_days()
 
-url_string = (f"classification_id=277&device_identifier=web"
-              f"&device_stream_audio_quality=2.0&device_stream_hdr_type=NONE&device_stream_video_quality=FHD"
-              f"&epg_duration_minutes=360"
-              f"&epg_ends_at={days[-1].strftime('%Y-%m-%dT%H:%M:%S.000Z')}"
-              f"&epg_ends_at_timestamp={days[-1].timestamp()}"
-              f"&epg_starts_at={days[0].strftime('%Y-%m-%dT%H:%M:%S.000Z')}"
-              f"&epg_starts_at_timestamp={days[0].timestamp()}"
-              f"&locale=en&market_code=pl"
-              f"&per_page=250")
+url = "https://gizmo.rakuten.tv/v3/live_channels"
 
-url = "https://gizmo.rakuten.tv/v3/live_channels?" + url_string.replace(":", "%3A")
+params = {
+    "classification_id": "277",
+    "device_identifier": "web",
+    "device_stream_audio_quality": "2.0",
+    "device_stream_hdr_type": "NONE",
+    "device_stream_video_quality": "FHD",
+    "epg_duration_minutes": "360",
+    "epg_ends_at": days[-1].strftime('%Y-%m-%dT%H:%M:%S.000Z'),
+    "epg_ends_at_timestamp": int(days[-1].timestamp()),
+    "epg_starts_at": days[0].strftime('%Y-%m-%dT%H:%M:%S.000Z'),
+    "epg_starts_at_timestamp": int(days[0].timestamp()),
+    "locale": "en",
+    "market_code": "pl",
+    "per_page": "250"
+}
+
+headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Origin": "https://rakuten.tv",
+    "Referer": "https://rakuten.tv/"
+}
+
 print("Grabbing data")
-res = requests.get(url)
+res = requests.get(url, params=params, headers=headers)
+
 if res.status_code != 200:
+    print(f"Server response ({res.status_code}): {res.text}")
     raise ConnectionError(f"HTTP{res.status_code}: could not get info from server!")
+
 print("Loading JSON")
 json = res.json()['data']
 print(f"\nRetrieved {len(json)} channels:")
@@ -105,58 +114,44 @@ for channel in json:
     print(ch_name)
     ch_number = channel['channel_number']
     ch_id = channel['id']
-    if channel['images'] is not None:
-        images = channel['images']
-        if images.get('artwork_negative') is not None:
-            ch_icon = images.get('artwork_negative')
-        elif images.get('artwork') is not None:
-            ch_icon = images.get('artwork')
-        else:
-            ch_icon = None
-    if channel['labels'] is not None:
-        labels = channel['labels']
-        if labels.get('languages') is not None:
-            ch_language = labels.get('languages')[0].get('id')
-        else:
-            ch_language = None
-        if labels.get('tags') is not None:
-            ch_tags = labels.get('tags')
-        else:
-            ch_tags = None
-    if channel['classification'] is not None:
-        ch_age_rating = channel['classification'].get('age')
-    else:
-        ch_age_rating = None
+    
+    images = channel.get('images') or {}
+    ch_icon = images.get('artwork_negative') or images.get('artwork')
+    
+    labels = channel.get('labels') or {}
+    languages = labels.get('languages') or []
+    ch_language = languages[0].get('id') if languages else "pl"
+    ch_tags = labels.get('tags')
+    
     channels_data.append({
-        "name":       ch_name,
+        "name": ch_name,
         "epg_number": ch_number,
-        "id":         ch_id,
-        "icon":       ch_icon,
-        "language":   ch_language,
-        "tags":       ch_tags
+        "id": ch_id,
+        "icon": ch_icon,
+        "language": ch_language,
+        "tags": ch_tags
     })
-    programmes_list = channel['live_programs']
+    
+    programmes_list = channel.get('live_programs', [])
     for item in programmes_list:
         title = item['title']
-        subtitle = item['subtitle']
-        description = item['description']
+        subtitle = item.get('subtitle')
+        description = item.get('description')
         start = datetime.strptime(item['starts_at'], '%Y-%m-%dT%H:%M:%S.000%z').timestamp()
         end = datetime.strptime(item['ends_at'], '%Y-%m-%dT%H:%M:%S.000%z').timestamp()
 
         programme_data.append({
-            "title":       title,
-            "subtitle":    subtitle,
+            "title": title,
+            "subtitle": subtitle,
             "description": description,
-            "starts_at":   start,
-            "ends_at":     end,
-            "channel_id":  ch_id,
-            "language":    ch_language,
-            "tags":        ch_tags,
+            "starts_at": start,
+            "ends_at": end,
+            "channel_id": ch_id,
+            "language": ch_language,
+            "tags": ch_tags,
         })
 
 channel_xml = build_xmltv(channels_data, programme_data)
 
-# Write some XML
 with open('epg.xml', 'wb') as f:
     f.write(channel_xml)
-    f.close()
