@@ -13,6 +13,14 @@ def remove_control_characters(s: str) -> str:
         return s
     return "".join(ch for ch in s if unicodedata.category(ch)[0] != "C")
 
+def get_valid_lang(lang_str: str) -> str:
+    """Zwraca poprawny 2-literowy kod języka. Jeśli API zwróci 'asian', zamieni to na 'pl'."""
+    if not lang_str:
+        return "pl"
+    code = lang_str[:2].lower()
+    valid_codes = {'pl', 'en', 'de', 'fr', 'es', 'it', 'pt', 'ru', 'uk', 'cs', 'sk'}
+    return code if code in valid_codes else "pl"
+
 def get_days() -> list:
     """Zwraca listę dat: dzisiaj (zaokrąglona do godziny), jutro, pojutrze, za 3 dni."""
     now = datetime.now().replace(minute=0, second=0, microsecond=0)
@@ -32,8 +40,7 @@ def build_xmltv(channels: list, programmes: list) -> bytes:
         channel = etree.SubElement(data, "channel")
         channel.set("id", str(ch.get("id")))
         
-        # Bezpieczne pobieranie 2-znakowego kodu języka (np. "pl")
-        lang = ch.get("language", "pl")[:2].lower()
+        lang = get_valid_lang(ch.get("language"))
         name = etree.SubElement(channel, "display-name")
         name.set("lang", lang)
         name.text = ch.get("name")
@@ -67,11 +74,13 @@ def build_xmltv(channels: list, programmes: list) -> bytes:
             description.text = remove_control_characters(pr.get("description"))
             
         if pr.get('tags') and len(pr.get('tags')) > 0:
-            # Tworzymy osobny element <category> dla każdego tagu (zgodnie ze standardem XMLTV)
             for tag in pr.get('tags'):
-                category = etree.SubElement(programme, "category")
-                category.set('lang', 'pl')
-                category.text = tag.get("name")
+                tag_name = tag.get("name")
+                # Filtrowanie niechcianych kategorii
+                if tag_name and tag_name.lower() not in ["asian", "azja", "asia"]:
+                    category = etree.SubElement(programme, "category")
+                    category.set('lang', 'pl')
+                    category.text = tag_name
 
     return etree.tostring(data, pretty_print=True, encoding='utf-8')
 
@@ -79,7 +88,6 @@ def build_xmltv(channels: list, programmes: list) -> bytes:
 days = get_days()
 url = "https://gizmo.rakuten.tv/v3/live_channels"
 
-# Usunięto zbędne spacje na końcach kluczy i wartości
 base_params = {
     "classification_id": "277",
     "device_identifier": "web",
@@ -103,26 +111,31 @@ headers = {
     "Referer": "https://rakuten.tv/"
 }
 
-print("Grabbing data...")
-all_channels_data = []  # Zmieniono nazwę z 'json' na bardziej opisową
+print("Pobieranie danych...")
+all_channels_data = []
 page = 1
 
-while True:
-    params = base_params.copy()
-    params["page"] = str(page)
-    
-    res = requests.get(url, params=params, headers=headers)
-    if res.status_code != 200:
-        print(f"Server response ({res.status_code}): {res.text}")
-        raise ConnectionError(f"HTTP {res.status_code}: could not get info from server!")
-    
-    page_data = res.json().get('data', [])
-    if not page_data:
-        break
+try:
+    while True:
+        params = base_params.copy()
+        params["page"] = str(page)
         
-    all_channels_data.extend(page_data)
-    print(f"Pobrano stronę {page} ({len(page_data)} kanałów)")
-    page += 1
+        res = requests.get(url, params=params, headers=headers, timeout=30)
+        if res.status_code != 200:
+            print(f"Błąd serwera ({res.status_code}): {res.text}")
+            raise ConnectionError(f"HTTP {res.status_code}: nie udało się pobrać danych!")
+        
+        page_data = res.json().get('data', [])
+        if not page_data:
+            break
+            
+        all_channels_data.extend(page_data)
+        print(f"Strona {page}: {len(page_data)} kanałów")
+        page += 1
+        
+except requests.exceptions.RequestException as e:
+    print(f"Błąd połączenia: {e}")
+    exit(1)
 
 print(f"\nŁącznie pobrano {len(all_channels_data)} kanałów.")
 
@@ -155,12 +168,12 @@ for channel in all_channels_data:
     
     programmes_list = channel.get('live_programs', [])
     for item in programmes_list:
-        # Bezpieczne parsowanie daty z obsługą ewentualnych braków
         try:
             start = datetime.strptime(item['starts_at'], '%Y-%m-%dT%H:%M:%S.000%z').timestamp()
             end = datetime.strptime(item['ends_at'], '%Y-%m-%dT%H:%M:%S.000%z').timestamp()
-        except (ValueError, KeyError):
-            continue  # Pomijamy programy z błędnymi datami
+        except (ValueError, KeyError) as e:
+            print(f"  Pomijam program z błędną datą: {e}")
+            continue
             
         programme_data.append({
             "title": item.get('title', 'Brak tytułu'),
@@ -173,7 +186,7 @@ for channel in all_channels_data:
             "tags": ch_tags,
         })
 
-print("Generowanie pliku XML...")
+print("\nGenerowanie pliku XML...")
 channel_xml = build_xmltv(channels_data, programme_data)
 
 with open('epg.xml', 'wb') as f:
