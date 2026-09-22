@@ -32,7 +32,7 @@
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6f3cdcb7-ad53-489a-b2f2-7e234189f90a.png"></icon>
   </channel>
   <channel id="euronews-live-pol">
-    <display-name lang="po">Euronews LIVE</display-name>
+    <display-name lang="pl">Euronews LIVE</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5a0f05ce-ede7-43cd-8279-581ba9bbad23.png"></icon>
   </channel>
   <channel id="cgtn-documentary">
@@ -40,7 +40,7 @@
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7ebb7426-d0c4-45fd-84c1-27cea41aaca4.png"></icon>
   </channel>
   <channel id="viasat-explore-pl">
-    <display-name lang="po">Viasat Explore Classic</display-name>
+    <display-name lang="pl">Viasat Explore Classic</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3a7e6251-20d8-4ed5-a18a-723ca99a4616.png"></icon>
   </channel>
   <channel id="weather-spy-new">
@@ -52,7 +52,7 @@
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/d49acc3f-c75d-469e-8ecb-6832c207eb93.png"></icon>
   </channel>
   <channel id="moconomy-pl">
-    <display-name lang="po">Moconomy - Gospodarka i Finanse</display-name>
+    <display-name lang="pl">Moconomy - Gospodarka i Finanse</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/63a58c03-1b0e-4e0c-95b2-c85353772237.png"></icon>
   </channel>
   <channel id="american-crime-channel">
@@ -88,7 +88,7 @@
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/d1777210-699b-4ec8-a43d-1f960640d334.png"></icon>
   </channel>
   <channel id="car-city-adventures-pl">
-    <display-name lang="po">Car City Adventures</display-name>
+    <display-name lang="pl">Car City Adventures</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0cf2dc82-1839-4208-8316-3bcf3e645feb.png"></icon>
   </channel>
   <channel id="baby-shark-tv">
@@ -96,7 +96,7 @@
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/dc09b67f-ecd9-4ef0-81b5-abf2f63ed26e-baby-shark-tv-1643365877.png"></icon>
   </channel>
   <channel id="stingray-total-hits-pl">
-    <display-name lang="po">Stingray Total Hits Poland</display-name>
+    <display-name lang="pl">Stingray Total Hits Poland</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8c94fb70-f5d2-4f88-a5ac-531ddd77916e.png"></icon>
   </channel>
   <channel id="qello-concerts-by-stingray">
@@ -108,7 +108,7 @@
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/37f099f3-5247-4ed5-ba94-22058d027acf.png"></icon>
   </channel>
   <channel id="trace-urban">
-    <display-name lang="zx">Trace Urban</display-name>
+    <display-name lang="pl">Trace Urban</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ba6dc147-e433-42dd-8d74-c3de7e244d28.png"></icon>
   </channel>
   <channel id="that-s-rock">
@@ -124,11 +124,11 @@
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b61f63b9-5971-41d5-960f-49d7d4e8f2c8.png"></icon>
   </channel>
   <channel id="movie-music-by-stingray">
-    <display-name lang="zx">Movie Music By Stingray</display-name>
+    <display-name lang="pl">Movie Music By Stingray</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/349f6dad-99f6-421a-beac-72a495d0c198.png"></icon>
   </channel>
   <channel id="stingray-remember-the-80-s">
-    <display-name lang="zx">Stingray: Remember the 80’s</display-name>
+    <display-name lang="pl">Stingray: Remember the 80’s</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/097e5a61-18cf-4483-a032-c4e4ac187964.png"></icon>
   </channel>
   <channel id="stingray-greatest-hits">
@@ -136,7 +136,7 @@
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/007839df-a5d7-4d48-aa74-d54ce6df0159.png"></icon>
   </channel>
   <channel id="deluxe-lounge-hd">
-    <display-name lang="zx">Deluxe Lounge HD</display-name>
+    <display-name lang="pl">Deluxe Lounge HD</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c7d58e17-959f-4aa9-8724-eaf6f22ea2d5.png"></icon>
   </channel>
   <channel id="qwest-tv">
@@ -144,7 +144,7 @@
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e416d800-d9aa-438f-a527-04dcaba97ec0.png"></icon>
   </channel>
   <channel id="metal-rocks">
-    <display-name lang="zx">Metal.Rocks</display-name>
+    <display-name lang="pl">Metal.Rocks</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a54c2bde-fc93-426c-a78b-6ad08a2affc6.png"></icon>
   </channel>
   <channel id="gusto-tv-new">
@@ -156,11 +156,11 @@
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7347ca15-717e-4a4f-a767-9c2473eaf49e.png"></icon>
   </channel>
   <channel id="daystar-spa">
-    <display-name lang="sp">Daystar Español</display-name>
+    <display-name lang="pl">Daystar Español</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/106a80cb-fed4-4ef0-be5b-dbe590a88ea4.png"></icon>
   </channel>
   <channel id="red-carpet-tv-international">
-    <display-name lang="po">Red Carpet TV International</display-name>
+    <display-name lang="pl">Red Carpet TV International</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/d6c0ca53-1dba-4c49-b6da-0079d50252b6.png"></icon>
   </channel>
   <channel id="room-to-improve">
@@ -272,11 +272,11 @@
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3775e03f-ec73-4f33-994d-9a62df6e2cda.png"></icon>
   </channel>
   <channel id="ctv-serial">
-    <display-name lang="po">CTV-Serial</display-name>
+    <display-name lang="pl">CTV-Serial</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a767b0a3-d04d-4c33-af4c-fb3a6d8969fc.png"></icon>
   </channel>
   <channel id="wedotv-auta">
-    <display-name lang="po">wedotv Auta</display-name>
+    <display-name lang="pl">wedotv Auta</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/42bfd089-9b09-4405-ab53-8d6c3270e7df.png"></icon>
   </channel>
   <channel id="jukin-fail-army-new">
@@ -312,11 +312,11 @@
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/da8d760a-7257-4561-b3a6-59b478fe6edc.png"></icon>
   </channel>
   <channel id="grjngo-pl">
-    <display-name lang="po">Grjngo - Westerny</display-name>
+    <display-name lang="pl">Grjngo - Westerny</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8c260a63-88a2-4e48-abbb-650a846d1893.png"></icon>
   </channel>
   <channel id="bjgtjme-pl">
-    <display-name lang="po">Bigtime - Darmowe Filmy</display-name>
+    <display-name lang="pl">Bigtime - Darmowe Filmy</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/43e71556-d7f6-4db7-ae61-62c68cd50c77.png"></icon>
   </channel>
   <channel id="lone-star-new">
@@ -324,7 +324,7 @@
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/23f8067a-2719-48bf-91e0-83da98effe32.png"></icon>
   </channel>
   <channel id="top-movies-rakuten-tv">
-    <display-name lang="po">Top Movies Polska - Rakuten TV</display-name>
+    <display-name lang="pl">Top Movies Polska - Rakuten TV</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/cf1f0c80-1b00-4d8e-bd08-293a29c199dc.png"></icon>
   </channel>
   <programme channel="1-1-news" start="20260922100000 +0200" stop="20260922105959 +0200">
@@ -2799,721 +2799,601 @@
   <programme channel="cgtn" start="20260922093001 +0200" stop="20260922100000 +0200">
     <title lang="pl">Razor</title>
     <desc lang="pl">CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already "living in the future"!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922100001 +0200" stop="20260922103000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922103001 +0200" stop="20260922110000 +0200">
     <title lang="pl">Sports Scene</title>
     <desc lang="pl">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922110001 +0200" stop="20260922111500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922111501 +0200" stop="20260922113000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922113001 +0200" stop="20260922120000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922120001 +0200" stop="20260922123000 +0200">
     <title lang="pl">The Vibe</title>
     <desc lang="pl">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922123001 +0200" stop="20260922124500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922124501 +0200" stop="20260922133000 +0200">
     <title lang="pl">Africa Live</title>
     <desc lang="pl">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922133001 +0200" stop="20260922140000 +0200">
     <title lang="pl">Asia Today</title>
     <desc lang="pl">Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922140001 +0200" stop="20260922143000 +0200">
     <title lang="pl">Dialogue</title>
     <desc lang="pl">It is a prime time daily English talk show on CGTN.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922143001 +0200" stop="20260922144500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922144501 +0200" stop="20260922153000 +0200">
     <title lang="pl">China 24</title>
     <desc lang="pl">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922153001 +0200" stop="20260922160000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922160001 +0200" stop="20260922163000 +0200">
     <title lang="pl">The Point with Liu Xin</title>
     <desc lang="pl">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922163001 +0200" stop="20260922170000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922170001 +0200" stop="20260922173000 +0200">
     <title lang="pl">World Insight with Tian Wei</title>
     <desc lang="pl">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922173001 +0200" stop="20260922180000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922180001 +0200" stop="20260922183000 +0200">
     <title lang="pl">The Vibe</title>
     <desc lang="pl">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922183001 +0200" stop="20260922190000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922190001 +0200" stop="20260922193000 +0200">
     <title lang="pl">Africa Live</title>
     <desc lang="pl">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922193001 +0200" stop="20260922220000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922220001 +0200" stop="20260922223000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922223001 +0200" stop="20260922230000 +0200">
     <title lang="pl">World Insight with Tian Wei</title>
     <desc lang="pl">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922230001 +0200" stop="20260922233000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260922233001 +0200" stop="20260923000000 +0200">
     <title lang="pl">Dialogue</title>
     <desc lang="pl">It is a prime time daily English talk show on CGTN.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923000001 +0200" stop="20260923003000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923003001 +0200" stop="20260923010000 +0200">
     <title lang="pl">The Point with Liu Xin</title>
     <desc lang="pl">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923010001 +0200" stop="20260923013000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923013001 +0200" stop="20260923020000 +0200">
     <title lang="pl">Rediscovering China</title>
     <desc lang="pl">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923020001 +0200" stop="20260923023000 +0200">
     <title lang="pl">The Heat</title>
     <desc lang="pl">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923023001 +0200" stop="20260923030000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923030001 +0200" stop="20260923033000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923033001 +0200" stop="20260923040000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923040001 +0200" stop="20260923043000 +0200">
     <title lang="pl">China 24</title>
     <desc lang="pl">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923043001 +0200" stop="20260923050000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923050001 +0200" stop="20260923053000 +0200">
     <title lang="pl">World Insight with Tian Wei</title>
     <desc lang="pl">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923053001 +0200" stop="20260923054500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923054501 +0200" stop="20260923060000 +0200">
     <title lang="pl">Sports Scene</title>
     <desc lang="pl">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923060001 +0200" stop="20260923063000 +0200">
     <title lang="pl">The Hub With Wang Guan</title>
     <desc lang="pl">The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923063001 +0200" stop="20260923073000 +0200">
     <title lang="pl">Global Watch</title>
     <desc lang="pl">GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923073001 +0200" stop="20260923074500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923074501 +0200" stop="20260923080000 +0200">
     <title lang="pl">Sports Scene</title>
     <desc lang="pl">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923080001 +0200" stop="20260923083000 +0200">
     <title lang="pl">Rediscovering China</title>
     <desc lang="pl">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923083001 +0200" stop="20260923090000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923090001 +0200" stop="20260923093000 +0200">
     <title lang="pl">The Heat</title>
     <desc lang="pl">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923093001 +0200" stop="20260923100000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923100001 +0200" stop="20260923103000 +0200">
     <title lang="pl">Sports Scene</title>
     <desc lang="pl">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923103001 +0200" stop="20260923104500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923104501 +0200" stop="20260923110000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923110001 +0200" stop="20260923113000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923113001 +0200" stop="20260923120000 +0200">
     <title lang="pl">The Vibe</title>
     <desc lang="pl">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923120001 +0200" stop="20260923121500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923121501 +0200" stop="20260923130000 +0200">
     <title lang="pl">Africa Live</title>
     <desc lang="pl">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923130001 +0200" stop="20260923133000 +0200">
     <title lang="pl">Asia Today</title>
     <desc lang="pl">Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923133001 +0200" stop="20260923140000 +0200">
     <title lang="pl">Dialogue</title>
     <desc lang="pl">It is a prime time daily English talk show on CGTN.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923140001 +0200" stop="20260923141500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923141501 +0200" stop="20260923150000 +0200">
     <title lang="pl">China 24</title>
     <desc lang="pl">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923150001 +0200" stop="20260923153000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923153001 +0200" stop="20260923160000 +0200">
     <title lang="pl">The Hub With Wang Guan</title>
     <desc lang="pl">The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923160001 +0200" stop="20260923163000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923163001 +0200" stop="20260923170000 +0200">
     <title lang="pl">World Insight with Tian Wei</title>
     <desc lang="pl">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923170001 +0200" stop="20260923173000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923173001 +0200" stop="20260923180000 +0200">
     <title lang="pl">The Vibe</title>
     <desc lang="pl">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923180001 +0200" stop="20260923183000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923183001 +0200" stop="20260923190000 +0200">
     <title lang="pl">Africa Live</title>
     <desc lang="pl">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923190001 +0200" stop="20260923220000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923220001 +0200" stop="20260923223000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923223001 +0200" stop="20260923230000 +0200">
     <title lang="pl">World Insight with Tian Wei</title>
     <desc lang="pl">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923230001 +0200" stop="20260923233000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260923233001 +0200" stop="20260924000000 +0200">
     <title lang="pl">Dialogue</title>
     <desc lang="pl">It is a prime time daily English talk show on CGTN.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924000001 +0200" stop="20260924003000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924003001 +0200" stop="20260924010000 +0200">
     <title lang="pl">The Hub With Wang Guan</title>
     <desc lang="pl">The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924010001 +0200" stop="20260924013000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924013001 +0200" stop="20260924020000 +0200">
     <title lang="pl">Rediscovering China</title>
     <desc lang="pl">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924020001 +0200" stop="20260924023000 +0200">
     <title lang="pl">The Heat</title>
     <desc lang="pl">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924023001 +0200" stop="20260924030000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924030001 +0200" stop="20260924033000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924033001 +0200" stop="20260924040000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924040001 +0200" stop="20260924043000 +0200">
     <title lang="pl">China 24</title>
     <desc lang="pl">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924043001 +0200" stop="20260924050000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924050001 +0200" stop="20260924053000 +0200">
     <title lang="pl">World Insight with Tian Wei</title>
     <desc lang="pl">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924053001 +0200" stop="20260924054500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924054501 +0200" stop="20260924060000 +0200">
     <title lang="pl">Sports Scene</title>
     <desc lang="pl">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924060001 +0200" stop="20260924063000 +0200">
     <title lang="pl">The Point with Liu Xin</title>
     <desc lang="pl">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924063001 +0200" stop="20260924073000 +0200">
     <title lang="pl">Global Watch</title>
     <desc lang="pl">GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924073001 +0200" stop="20260924074500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924074501 +0200" stop="20260924080000 +0200">
     <title lang="pl">Sports Scene</title>
     <desc lang="pl">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924080001 +0200" stop="20260924083000 +0200">
     <title lang="pl">Rediscovering China</title>
     <desc lang="pl">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924083001 +0200" stop="20260924090000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924090001 +0200" stop="20260924093000 +0200">
     <title lang="pl">The Heat</title>
     <desc lang="pl">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924093001 +0200" stop="20260924100000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924100001 +0200" stop="20260924103000 +0200">
     <title lang="pl">Sports Scene</title>
     <desc lang="pl">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924103001 +0200" stop="20260924104500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924104501 +0200" stop="20260924110000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924110001 +0200" stop="20260924113000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924113001 +0200" stop="20260924120000 +0200">
     <title lang="pl">The Vibe</title>
     <desc lang="pl">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924120001 +0200" stop="20260924121500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924121501 +0200" stop="20260924130000 +0200">
     <title lang="pl">Africa Live</title>
     <desc lang="pl">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924130001 +0200" stop="20260924133000 +0200">
     <title lang="pl">Asia Today</title>
     <desc lang="pl">Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924133001 +0200" stop="20260924140000 +0200">
     <title lang="pl">Dialogue</title>
     <desc lang="pl">It is a prime time daily English talk show on CGTN.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924140001 +0200" stop="20260924141500 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924141501 +0200" stop="20260924150000 +0200">
     <title lang="pl">China 24</title>
     <desc lang="pl">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924150001 +0200" stop="20260924153000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924153001 +0200" stop="20260924160000 +0200">
     <title lang="pl">The Point with Liu Xin</title>
     <desc lang="pl">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924160001 +0200" stop="20260924163000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924163001 +0200" stop="20260924170000 +0200">
     <title lang="pl">World Insight with Tian Wei</title>
     <desc lang="pl">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924170001 +0200" stop="20260924173000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924173001 +0200" stop="20260924180000 +0200">
     <title lang="pl">The Vibe</title>
     <desc lang="pl">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924180001 +0200" stop="20260924183000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924183001 +0200" stop="20260924190000 +0200">
     <title lang="pl">Africa Live</title>
     <desc lang="pl">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924190001 +0200" stop="20260924220000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924220001 +0200" stop="20260924223000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924223001 +0200" stop="20260924230000 +0200">
     <title lang="pl">World Insight with Tian Wei</title>
     <desc lang="pl">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924230001 +0200" stop="20260924233000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260924233001 +0200" stop="20260925000000 +0200">
     <title lang="pl">Dialogue</title>
     <desc lang="pl">It is a prime time daily English talk show on CGTN.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260925000001 +0200" stop="20260925003000 +0200">
     <title lang="pl">Global Business</title>
     <desc lang="pl">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260925003001 +0200" stop="20260925010000 +0200">
     <title lang="pl">The Point with Liu Xin</title>
     <desc lang="pl">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260925010001 +0200" stop="20260925013000 +0200">
     <title lang="pl">The World Today</title>
     <desc lang="pl">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="cgtn" start="20260925013001 +0200" stop="20260925020000 +0200">
     <title lang="pl">Rediscovering China</title>
     <desc lang="pl">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">Informacyjne</category>
   </programme>
   <programme channel="africanews-eng" start="20260922100000 +0200" stop="20260922102959 +0200">
@@ -5647,583 +5527,486 @@
   <programme channel="cgtn-documentary" start="20260922093001 +0200" stop="20260922100000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922100001 +0200" stop="20260922110000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922110001 +0200" stop="20260922113000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922113001 +0200" stop="20260922120000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922120001 +0200" stop="20260922130000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922130001 +0200" stop="20260922133000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922133001 +0200" stop="20260922140000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922140001 +0200" stop="20260922150000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922150001 +0200" stop="20260922153000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922153001 +0200" stop="20260922160000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922160001 +0200" stop="20260922170000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922170001 +0200" stop="20260922173000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922173001 +0200" stop="20260922180000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922180001 +0200" stop="20260922190000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922190001 +0200" stop="20260922193000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922193001 +0200" stop="20260922200000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922200001 +0200" stop="20260922210000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922210001 +0200" stop="20260922213000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922213001 +0200" stop="20260922220000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922220001 +0200" stop="20260922230000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922230001 +0200" stop="20260922233000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260922233001 +0200" stop="20260923000000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923000001 +0200" stop="20260923010000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923010001 +0200" stop="20260923013000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923013001 +0200" stop="20260923020000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923020001 +0200" stop="20260923030000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923030001 +0200" stop="20260923033000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923033001 +0200" stop="20260923040000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923040001 +0200" stop="20260923050000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923050001 +0200" stop="20260923053000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923053001 +0200" stop="20260923060000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923060001 +0200" stop="20260923070000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923070001 +0200" stop="20260923073000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923073001 +0200" stop="20260923080000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923080001 +0200" stop="20260923090000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923090001 +0200" stop="20260923093000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923093001 +0200" stop="20260923100000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923100001 +0200" stop="20260923110000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923110001 +0200" stop="20260923113000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923113001 +0200" stop="20260923120000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923120001 +0200" stop="20260923130000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923130001 +0200" stop="20260923133000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923133001 +0200" stop="20260923140000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923140001 +0200" stop="20260923150000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923150001 +0200" stop="20260923153000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923153001 +0200" stop="20260923160000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923160001 +0200" stop="20260923170000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923170001 +0200" stop="20260923173000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923173001 +0200" stop="20260923180000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923180001 +0200" stop="20260923190000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923190001 +0200" stop="20260923193000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923193001 +0200" stop="20260923200000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923200001 +0200" stop="20260923210000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923210001 +0200" stop="20260923213000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923213001 +0200" stop="20260923220000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923220001 +0200" stop="20260923230000 +0200">
     <title lang="pl">Today’s Top Pick</title>
     <desc lang="pl">Documentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923230001 +0200" stop="20260923233000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260923233001 +0200" stop="20260924000000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924000001 +0200" stop="20260924010000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924010001 +0200" stop="20260924013000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924013001 +0200" stop="20260924020000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924020001 +0200" stop="20260924030000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924030001 +0200" stop="20260924033000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924033001 +0200" stop="20260924040000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924040001 +0200" stop="20260924050000 +0200">
     <title lang="pl">Today’s Top Pick</title>
     <desc lang="pl">Documentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924050001 +0200" stop="20260924053000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924053001 +0200" stop="20260924060000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924060001 +0200" stop="20260924070000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924070001 +0200" stop="20260924073000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924073001 +0200" stop="20260924080000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924080001 +0200" stop="20260924090000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924090001 +0200" stop="20260924093000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924093001 +0200" stop="20260924100000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924100001 +0200" stop="20260924110000 +0200">
     <title lang="pl">Today’s Top Pick</title>
     <desc lang="pl">Documentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924110001 +0200" stop="20260924113000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924113001 +0200" stop="20260924120000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924120001 +0200" stop="20260924130000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924130001 +0200" stop="20260924133000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924133001 +0200" stop="20260924140000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924140001 +0200" stop="20260924150000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924150001 +0200" stop="20260924153000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924153001 +0200" stop="20260924160000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924160001 +0200" stop="20260924170000 +0200">
     <title lang="pl">Today’s Top Pick</title>
     <desc lang="pl">Documentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924170001 +0200" stop="20260924173000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924173001 +0200" stop="20260924180000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924180001 +0200" stop="20260924190000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924190001 +0200" stop="20260924193000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924193001 +0200" stop="20260924200000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924200001 +0200" stop="20260924210000 +0200">
     <title lang="pl">Best Eats</title>
     <desc lang="pl">Food connects people! A feast for the eyes that spotlights the cuisines of China in a way that’s bound to set the mouths of the whole globe watering!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924210001 +0200" stop="20260924213000 +0200">
     <title lang="pl">Youthful China</title>
     <desc lang="pl">The youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924213001 +0200" stop="20260924220000 +0200">
     <title lang="pl">Pixel Collage</title>
     <desc lang="pl">A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924220001 +0200" stop="20260924230000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924230001 +0200" stop="20260924233000 +0200">
     <title lang="pl">Humanities and Geography</title>
     <desc lang="pl">A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260924233001 +0200" stop="20260925000000 +0200">
     <title lang="pl">Living China</title>
     <desc lang="pl">Real life stories told from the personal perspective. Moving, dramatic, sorrows and joys, expressed emphatically and expressed quietly. Watch closely to see and understand the real China as it is lived.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260925000001 +0200" stop="20260925010000 +0200">
     <title lang="pl">Special Edition</title>
     <desc lang="pl">Prestige Chinese documentary production, tackling serious subjects with the best cinematography, editing, and all round production values with a unique Chinese perspective.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260925010001 +0200" stop="20260925013000 +0200">
     <title lang="pl">Journeys and Discoveries</title>
     <desc lang="pl">A documentary series showcasing the history of China and its people.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="cgtn-documentary" start="20260925013001 +0200" stop="20260925020000 +0200">
     <title lang="pl">History in the Frame</title>
     <desc lang="pl">A documentary series featuring historical and archaeological exploration.</desc>
-    <category lang="pl">Asian</category>
     <category lang="pl">dokumentalny</category>
   </programme>
   <programme channel="viasat-explore-pl" start="20260922090005 +0200" stop="20260922100000 +0200">
